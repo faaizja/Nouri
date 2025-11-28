@@ -82,9 +82,8 @@ export default function LandingPage() {
             viewport={{ once: true }}
             className="space-y-6 text-[#2E2E2E]/70 text-lg leading-relaxed"
           >
-            <p>
-              Over here we can have a short description about the app and what it does. We can also talk about why its useful and how it solves the problem of food wastage.
-               Do you think we should have a problem state between this and the three features?
+            <p className="">
+              Many home cooks want to waste less food, but expiry dates, busy schedules, and forgotten leftovers make it hard to track what’s in the kitchen. Nouri connects your pantry, recipes, and waste habits into one place so you can cook confidently with what you already have.
             </p>
             <Link href="/process">
               <Button
@@ -101,6 +100,8 @@ export default function LandingPage() {
 
        {/* component with the three features */}
       <ProjectShowcase />
+
+
 
       {/* <section className="py-32 px-6 md:px-12">
         <div className="max-w-7xl mx-auto">
@@ -136,7 +137,7 @@ export default function LandingPage() {
             viewport={{ once: true }}
           >
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-light mb-8 text-balance">
-              Interested in the design process?
+              Want to see how we designed Nouri?
             </h2>
             <Link href="/process">
               <Button
@@ -166,10 +167,11 @@ function Header() {
       transition={{ duration: 0.8 }}
       className="fixed top-0 left-0 right-0 z-50 bg-white/80 backdrop-blur-md"
     >
-      <nav className="max-w-7xl mx-auto px-6 md:px-12 h-20 flex items-center justify-between">
+      <nav className="max-w-7xl mx-auto lg:mx-14 px-6 md:px-12 h-20 flex items-center justify-between">
         <Link href="/" className="text-2xl font-inter font-bold">
           Nouri
         </Link>
+        
         <div className="flex items-center gap-12">
           <Link href="/" className="text-sm hover:text-[#7A9D54] transition-colors">
             Home
@@ -178,6 +180,7 @@ function Header() {
             Process
           </Link>
         </div>
+
       </nav>
     </motion.header>
   )
@@ -202,9 +205,11 @@ function ProjectShowcase() {
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
           >
+            <h4 className="text-[#2E2E2E]/65 mb-2">Feature 1 - Track what you have</h4>
             <h3 className="text-4xl md:text-5xl font-light mb-6 text-balance">Kitchen Intelligence Hub</h3>
             <p className="text-lg text-[#2E2E2E]/70 leading-relaxed">
-              We can give a brief here about what the feature is and what it is used for.
+              Kitchen Intelligence Hub
+Nouri keeps a live snapshot of what’s in your kitchen, what’s expiring soon, and how efficiently you’re using food. From here you can add items, scan receipts, and see at a glance what needs attention today.
             </p>
           </motion.div>
 
@@ -252,9 +257,10 @@ function ProjectShowcase() {
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
           >
+            <h4 className="text-[#2E2E2E]/65 mb-2">Feature 2 - Turn expiring food into meals</h4>
             <h3 className="text-4xl md:text-5xl font-light mb-6 text-balance">Recipe Rescue</h3>
             <p className="text-lg text-[#2E2E2E]/70 leading-relaxed">
-              We can give a brief here about what the feature is and what it is used for.
+              When ingredients are about to go bad, Nouri suggests recipes that rescue them. The cooking assistant walks you through each step with a clear timer and “skip step” options so cooking stays flexible, not stressful.
             </p>
           </motion.div>
 
@@ -271,9 +277,10 @@ function ProjectShowcase() {
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
           >
+            <h4 className="text-[#2E2E2E]/65 mb-2">Feature 3 - See the impact of your habits</h4>
             <h3 className="text-4xl md:text-5xl font-light mb-6 text-balance">Nouri Nexus</h3>
             <p className="text-lg text-[#2E2E2E]/70 leading-relaxed">
-              We can give a brief here about what the feature is and what it is used for.
+              Nouri turns your saved meals and logged waste into a growing Nourishment Tree and weekly score. Small changes become visible progress, nudging you to keep building low-waste habits.
             </p>
           </motion.div>
 

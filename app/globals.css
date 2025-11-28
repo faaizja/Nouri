@@ -3,7 +3,6 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* Custom Nouri color palette variables for easy reference */
 :root {
   /* Nouri Brand Colors */
   --nouri-primary: #a8c686;
@@ -132,12 +131,10 @@
   }
 }
 
-/* Smooth scrolling behavior */
 html {
   scroll-behavior: smooth;
 }
 
-/* Custom animations for scroll effects */
 @keyframes fadeInUp {
   from {
     opacity: 0;

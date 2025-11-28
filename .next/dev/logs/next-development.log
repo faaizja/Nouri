@@ -1,13 +1,117 @@
-[00:00:00.819] Server  LOG      ✓ Ready in 588ms
-[00:00:04.429] Server  WARN     ⚠ Cross origin request detected from 172.16.190.151 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+[00:00:00.843] Server  LOG      ✓ Ready in 600ms
+[00:00:09.433] Server  WARN     ⚠ Cross origin request detected from 192.0.0.2 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
 Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
-[00:00:06.117] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:06.401] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:06.401] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
-[00:00:06.403] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://172.16.190.151:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295648649}
-[00:00:07.874] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.16.190.151:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295650144}
-[00:00:07.874] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
-[00:00:30.480] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://172.16.190.151:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295672767}
-[00:00:31.477] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:00:31.477] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.16.190.151:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295673763}
-[00:01:21.372] Server  LOG      ✓ Compiled in 67ms
+[00:00:10.111] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:11.567] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:11.567] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:11.568] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.0.0.2:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.0.0.2:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764309634523}
+[00:00:12.940] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[00:01:21.897] Server  LOG      ✓ Compiled in 126ms
+[00:01:55.505] Server  LOG      ✓ Compiled in 106ms
+[00:02:21.840] Server  LOG      ✓ Compiled in 68ms
+[00:06:25.890] Server  LOG      ✓ Compiled in 103ms
+[00:06:51.799] Server  LOG      ✓ Compiled in 52ms
+[00:07:00.846] Server  LOG      ✓ Compiled in 57ms
+[00:07:05.621] Server  LOG      ✓ Compiled in 38ms
+[00:07:29.453] Server  LOG      ✓ Compiled in 162ms
+[00:07:34.337] Server  LOG      ✓ Compiled in 106ms
+[00:07:44.351] Server  LOG      ✓ Compiled in 64ms
+[00:07:53.950] Server  LOG      ✓ Compiled in 51ms
+[00:08:00.665] Server  LOG      ✓ Compiled in 63ms
+[00:08:05.271] Server  LOG      ✓ Compiled in 49ms
+[00:08:07.825] Server  LOG      ✓ Compiled in 89ms
+[00:08:11.085] Server  LOG      ✓ Compiled in 42ms
+[00:08:16.588] Server  LOG      ✓ Compiled in 110ms
+[00:08:21.116] Server  LOG      ✓ Compiled in 86ms
+[00:08:27.122] Server  LOG      ✓ Compiled in 99ms
+[00:08:33.770] Server  LOG      ✓ Compiled in 43ms
+[00:08:36.851] Server  LOG      ✓ Compiled in 48ms
+[00:08:39.226] Server  LOG      ✓ Compiled in 49ms
+[00:08:42.230] Server  LOG      ✓ Compiled in 45ms
+[00:08:50.950] Server  LOG      ✓ Compiled in 45ms
+[00:08:54.930] Server  LOG      ✓ Compiled in 47ms
+[00:09:22.939] Server  LOG      ✓ Compiled in 135ms
+[00:09:50.707] Server  LOG      ✓ Compiled in 62ms
+[00:09:59.404] Server  LOG      ✓ Compiled in 49ms
+[00:10:06.907] Server  LOG      ✓ Compiled in 51ms
+[00:10:13.000] Server  LOG      ✓ Compiled in 52ms
+[00:10:16.182] Server  LOG      ✓ Compiled in 48ms
+[00:10:22.385] Server  LOG      ✓ Compiled in 53ms
+[00:10:31.568] Server  LOG      ✓ Compiled in 61ms
+[00:10:33.695] Server  LOG      ✓ Compiled in 27ms
+[00:10:38.758] Server  LOG      ✓ Compiled in 54ms
+[00:10:46.088] Server  LOG      ✓ Compiled in 79ms
+[00:10:49.927] Server  LOG      ✓ Compiled in 67ms
+[00:10:56.855] Server  LOG      ✓ Compiled in 47ms
+[00:11:01.957] Server  LOG      ✓ Compiled in 49ms
+[00:11:05.040] Server  LOG      ✓ Compiled in 45ms
+[00:11:09.650] Server  LOG      ✓ Compiled in 50ms
+[00:11:37.491] Server  LOG      ✓ Compiled in 85ms
+[00:11:46.391] Server  LOG      ✓ Compiled in 56ms
+[00:11:48.902] Server  LOG      ✓ Compiled in 76ms
+[00:12:02.283] Server  LOG      ✓ Compiled in 64ms
+[00:23:38.077] Server  LOG      ✓ Compiled in 137ms
+[00:23:57.117] Server  LOG      ✓ Compiled in 61ms
+[00:24:26.124] Server  LOG      ✓ Compiled in 54ms
+[00:35:47.228] Server  LOG      ✓ Compiled in 99ms
+[00:36:31.870] Server  LOG      ✓ Compiled in 116ms
+[00:36:57.232] Server  LOG      ✓ Compiled in 214ms
+[00:37:04.810] Server  LOG      ✓ Compiled in 51ms
+[00:40:14.944] Server  LOG      ✓ Compiled in 56ms
+[00:40:21.813] Server  LOG      ✓ Compiled in 62ms
+[00:40:32.915] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.0.0.2:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.0.0.2:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764312056735}
+[00:40:34.254] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:40:34.254] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.0.0.2:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.0.0.2:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764312058074}
+[00:43:58.615] Server  LOG      ✓ Compiled in 53ms
+[00:44:03.371] Server  LOG      ✓ Compiled in 51ms
+[00:44:08.612] Server  LOG      ✓ Compiled in 38ms
+[00:44:26.227] Server  LOG      ✓ Compiled in 115ms
+[00:44:33.894] Server  LOG      ✓ Compiled in 90ms
+[00:44:37.552] Server  LOG      ✓ Compiled in 101ms
+[00:44:40.837] Server  LOG      ✓ Compiled in 77ms
+[00:44:43.959] Server  LOG      ✓ Compiled in 96ms
+[00:44:46.053] Server  LOG      ✓ Compiled in 72ms
+[00:44:49.369] Server  LOG      ✓ Compiled in 69ms
+[00:44:51.838] Server  LOG      ✓ Compiled in 158ms
+[00:44:54.754] Server  LOG      ✓ Compiled in 42ms
+[00:45:04.357] Server  LOG      ✓ Compiled in 61ms
+[00:45:06.029] Server  LOG      ✓ Compiled in 56ms
+[00:45:08.998] Server  LOG      ✓ Compiled in 54ms
+[00:45:15.223] Server  LOG      ✓ Compiled in 58ms
+[00:45:54.348] Server  LOG      ✓ Compiled in 58ms
+[00:46:02.752] Server  LOG      ✓ Compiled in 53ms
+[00:46:11.875] Server  LOG      ✓ Compiled in 50ms
+[00:46:25.822] Server  LOG      ✓ Compiled in 67ms
+[00:46:31.593] Server  LOG      ✓ Compiled in 59ms
+[00:46:51.819] Server  LOG      ✓ Compiled in 92ms
+[00:46:56.601] Server  LOG      ✓ Compiled in 61ms
+[00:47:02.757] Server  LOG      ✓ Compiled in 54ms
+[00:47:04.803] Server  LOG      ✓ Compiled in 43ms
+[00:48:10.362] Server  LOG      ✓ Compiled in 53ms
+[00:48:12.766] Server  LOG      ✓ Compiled in 63ms
+[00:48:16.332] Server  LOG      ✓ Compiled in 37ms
+[00:48:31.088] Server  LOG      ✓ Compiled in 46ms
+[00:48:41.277] Server  LOG      ✓ Compiled in 54ms
+[00:48:48.996] Server  LOG      ✓ Compiled in 44ms
+[00:49:18.433] Server  LOG      ✓ Compiled in 51ms
+[00:49:21.297] Server  LOG      ✓ Compiled in 40ms
+[00:49:25.071] Server  LOG      ✓ Compiled in 59ms
+[00:49:33.854] Server  LOG      ✓ Compiled in 57ms
+[00:49:47.140] Server  LOG      ✓ Compiled in 59ms
+[00:49:54.460] Server  LOG      ✓ Compiled in 47ms
+[00:50:00.093] Server  LOG      ✓ Compiled in 58ms
+[00:50:05.237] Server  LOG      ✓ Compiled in 53ms
+[00:50:13.190] Server  LOG      ✓ Compiled in 64ms
+[00:50:24.083] Server  LOG      ✓ Compiled in 38ms
+[00:50:28.494] Server  LOG      ✓ Compiled in 55ms
+[00:50:31.901] Server  LOG      ✓ Compiled in 63ms
+[00:50:38.869] Server  LOG      ✓ Compiled in 55ms
+[00:50:43.522] Server  LOG      ✓ Compiled in 38ms
+[00:54:15.692] Server  LOG      ✓ Compiled in 143ms
+[00:54:18.776] Server  LOG      ✓ Compiled in 45ms
+[00:54:36.277] Server  LOG      ✓ Compiled in 70ms
+[00:54:42.144] Server  LOG      ✓ Compiled in 94ms
+[00:54:53.869] Server  LOG      ✓ Compiled in 78ms
+[00:54:59.717] Server  LOG      ✓ Compiled in 90ms
+[00:55:05.362] Server  LOG      ✓ Compiled in 51ms
+[00:55:09.320] Server  LOG      ✓ Compiled in 63ms
