@@ -1,90 +1,13 @@
-[00:00:00.701] Server  LOG      ✓ Ready in 471ms
-[00:00:00.702] Server  WARN     ⚠ Cross origin request detected from 172.16.190.151 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+[00:00:00.819] Server  LOG      ✓ Ready in 588ms
+[00:00:04.429] Server  WARN     ⚠ Cross origin request detected from 172.16.190.151 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
 Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
-[00:00:01.948] Server  ERROR    ⨯ ./app/process/page.tsx:371:2
-Parsing ecmascript source code failed
-  369 |     </footer>
-  370 |   )
-> 371 | }
-      |  ^
-  372 |
-
-Expected '}', got '<eof>'
-
-
-[00:00:02.607] Browser ERROR   uncaughtError: Error: ./app/process/page.tsx:371:2
-Parsing ecmascript source code failed
-  369 |     </footer>
-  370 |   )
-> 371 | }
-      |  ^
-  372 |
-
-Expected '}', got '<eof>'
-
-
-[00:00:02.842] Browser ERROR   ./app/process/page.tsx:371:2
-Parsing ecmascript source code failed
-  369 |     </footer>
-  370 |   )
-> 371 | }
-      |  ^
-  372 |
-
-Expected '}', got '<eof>'
-[00:00:02.946] Browser ERROR   ./app/process/page.tsx:371:2
-Parsing ecmascript source code failed
-  369 |     </footer>
-  370 |   )
-> 371 | }
-      |  ^
-  372 |
-
-Expected '}', got '<eof>'
-[00:00:16.802] Browser ERROR   uncaughtError: Error: ./app/process/page.tsx:371:2
-Parsing ecmascript source code failed
-  369 |     </footer>
-  370 |   )
-> 371 | }
-      |  ^
-  372 |
-
-Expected '}', got '<eof>'
-
-
-[00:00:17.029] Browser ERROR   ./app/process/page.tsx:371:2
-Parsing ecmascript source code failed
-  369 |     </footer>
-  370 |   )
-> 371 | }
-      |  ^
-  372 |
-
-Expected '}', got '<eof>'
-[00:00:17.029] Browser ERROR   ./app/process/page.tsx:371:2
-Parsing ecmascript source code failed
-  369 |     </footer>
-  370 |   )
-> 371 | }
-      |  ^
-  372 |
-
-Expected '}', got '<eof>'
-[00:00:52.003] Server  LOG      ✓ Compiled in 144ms
-[00:00:52.434] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:53.310] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:53.311] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:53.311] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.16.190.151:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295568501}
-[00:01:04.519] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
-[00:01:06.526] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://172.16.190.151:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295581927}
-[00:01:11.453] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:01:11.453] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.16.190.151:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295586852}
-[00:01:12.222] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:12.450] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
-[00:01:12.450] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:01:12.451] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:01:12.451] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.16.190.151:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295587846}
-[00:01:14.133] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://172.16.190.151:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295589533}
-[00:01:18.906] Server  LOG      ✓ Compiled in 76ms
-[00:01:20.540] Server  LOG      ✓ Compiled in 27ms
-[00:01:49.173] Server  LOG      ✓ Compiled in 44ms
+[00:00:06.117] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.401] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:06.401] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
+[00:00:06.403] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://172.16.190.151:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295648649}
+[00:00:07.874] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.16.190.151:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295650144}
+[00:00:07.874] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[00:00:30.480] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://172.16.190.151:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295672767}
+[00:00:31.477] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:00:31.477] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.190.151:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.16.190.151:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764295673763}
+[00:01:21.372] Server  LOG      ✓ Compiled in 67ms

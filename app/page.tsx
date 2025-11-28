@@ -102,7 +102,7 @@ export default function LandingPage() {
        {/* component with the three features */}
       <ProjectShowcase />
 
-      <section className="py-32 px-6 md:px-12">
+      {/* <section className="py-32 px-6 md:px-12">
         <div className="max-w-7xl mx-auto">
           <motion.div
             initial={{ opacity: 0, y: 40 }}
@@ -125,7 +125,7 @@ export default function LandingPage() {
             </div>
           </motion.div>
         </div>
-      </section>
+      </section> */}
 
       <section className="py-24 px-6 md:px-12 bg-[#F9F9F5]">
         <div className="max-w-7xl mx-auto text-center">
