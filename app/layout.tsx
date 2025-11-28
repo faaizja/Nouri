@@ -1,11 +1,9 @@
 import type React from "react"
 import type { Metadata } from "next"
-// <CHANGE> Importing Inter font for the Nouri portfolio
 import { Inter } from "next/font/google"
 import { Analytics } from "@vercel/analytics/next"
 import "./globals.css"
 
-// <CHANGE> Setting up Inter with multiple weights as specified
 const inter = Inter({
   subsets: ["latin"],
   weight: ["300", "400", "500", "600", "700"],

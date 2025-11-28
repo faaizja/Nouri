@@ -26,7 +26,7 @@ export default function LandingPage() {
             transition={{ duration: 1, ease: [0.22, 1, 0.36, 1] }}
           >
             <h1 className="text-6xl md:text-7xl lg:text-8xl xl:text-9xl font-light leading-[0.95] mb-8 text-balance">
-              Nouri is a smart kitchen companion that helps reduce food waste.
+              <span className="font-inter font-bold">Nouri</span> is a smart kitchen companion that helps reduce <span className="font-inter font-bold">food waste.</span>
             </h1>
           </motion.div>
 
@@ -148,12 +148,15 @@ export default function LandingPage() {
             </Link>
           </motion.div>
         </div>
+
       </section>
 
       <Footer />
     </div>
   )
 }
+
+
 
 function Header() {
   return (
@@ -164,7 +167,7 @@ function Header() {
       className="fixed top-0 left-0 right-0 z-50 bg-white/80 backdrop-blur-md"
     >
       <nav className="max-w-7xl mx-auto px-6 md:px-12 h-20 flex items-center justify-between">
-        <Link href="/" className="text-2xl font-light">
+        <Link href="/" className="text-2xl font-inter font-bold">
           Nouri
         </Link>
         <div className="flex items-center gap-12">
