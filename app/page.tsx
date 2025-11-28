@@ -254,7 +254,7 @@ function ProjectShowcase() {
               We can give a brief here about what the feature is and what it is used for.
             </p>
           </motion.div>
-          
+
         </div>
       </section>
 

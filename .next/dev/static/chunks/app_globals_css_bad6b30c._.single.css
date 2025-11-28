@@ -685,10 +685,6 @@
     margin-right: calc(var(--spacing) * 2);
   }
 
-  .mb-1 {
-    margin-bottom: calc(var(--spacing) * 1);
-  }
-
   .mb-2 {
     margin-bottom: calc(var(--spacing) * 2);
   }
