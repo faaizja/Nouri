@@ -40,7 +40,7 @@ export default function ProcessPage() {
 
 
       {/* wireframe image section */}
-      <section className="py-24 px-6 md:px-12 bg-[#F9F9F5]">
+      <section className="py-16 px-6 md:px-12 bg-[#F9F9F5]">
         <motion.div
           initial={{ opacity: 0, y: 60 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -48,6 +48,9 @@ export default function ProcessPage() {
           viewport={{ once: true }}
           className="max-w-7xl mx-auto"
         >
+          <h1 className="text-2xl md:text-3xl lg:text-3xl font-light mb-8">Nouri started as a simple question: 
+            <span className="italic font-semibold text-[#7a9d54]"> why is it still so hard to keep track of what is in your kitchen? </span>
+             This page walks through how we researched, designed, and refined Nouri into a tool that helps home cooks waste less food and feel more confident about what they already have.</h1>
           <div className="relative aspect-video bg-white rounded-3xl overflow-hidden shadow-xl">
             <img
               src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/dde24df1ad16e83aedccec1f38d459233cc5f05a"
@@ -78,18 +81,23 @@ export default function ProcessPage() {
             className="space-y-6 text-lg text-[#2E2E2E]/70 leading-relaxed"
           >
             <p>
-              A problem statement will go here describing the issue and what exactly is resulted by it.
+              Home cooks want to waste less, but expiry dates, busy schedules, and forgotten leftovers make it hard to see what is actually in the kitchen. 
+              Food often goes bad quietly at the back of the fridge, which means money lost and extra stress when deciding what to cook.
             </p>
             <p>
-              Another problem statement can go here with a bit more personalization. e.g. something like Users struggle with three core challenges: tracking their food inventory, deciding what to cook with available ingredients, and understanding their impact on the environment and their wallet.
+              Our mission was to design a system that makes food visibility <span className="text-[#7a9d54] italic font-semibold">simple</span>, 
+              <span className="text-[#7a9d54] italic font-semibold"> reduces waste</span>, 
+              and <span className="text-[#7a9d54] italic font-semibold">supports</span> everyday decision making 
+              rather than adding more work.
             </p>
           </motion.div>
 
-        </div>
+        </div> 
       </section>
 
       {/* all research section */}
       <section className="py-32 px-6 md:px-12 bg-[#F9F9F5]">
+        
         <div className="max-w-7xl mx-auto">
 
           <motion.div
@@ -135,6 +143,7 @@ export default function ProcessPage() {
             </motion.div>
             </div>
 
+          {/* 3 levels of findings */}
           <div className="grid md:grid-cols-3 gap-12">
             <motion.div
               initial={{ opacity: 0, y: 40 }}
@@ -161,9 +170,37 @@ export default function ProcessPage() {
                 </div>
               </div>
 
+              {/* transtion statement  */}
+              <motion.div 
+                className="mt-28 mb-16"
+                initial={{ opacity: 0, y: 50 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                transition={{ duration: 1, delay: 0.3 }}
+                viewport={{ once: true }}
+              >
+                <div className="relative">
+                  <div className="absolute -left-4 top-1/2 transform -translate-y-1/2 w-2 h-24 bg-[#a8c686] rounded-full"></div>
+                  <h1 className="text-4xl md:text-5xl lg:text-[3.5rem] text-nowrap pl-8 leading-relaxed">
+                    These insights helped us <span className="italic font-light">narrow in</span><br />
+                    on who our <span className="font-bold text-[#a8c686] relative">
+                      solution
+                      <motion.div 
+                        className="absolute -bottom-1 left-0 w-full h-1 bg-[#a8c686]"
+                        initial={{ scaleX: 0 }}
+                        whileInView={{ scaleX: 1 }}
+                        transition={{ duration: 0.8, delay: 0.8 }}
+                        viewport={{ once: true }}
+                      ></motion.div>
+                    </span> should serve.
+                  </h1>
+                </div>
+              </motion.div> 
+
             </motion.div>
           </div>
           
+
+          {/* our target audience */}
           <div className="grid md:grid-cols-3 gap-12">
             <motion.div
               initial={{ opacity: 0, y: 40 }}
@@ -171,28 +208,77 @@ export default function ProcessPage() {
               transition={{ duration: 0.8, delay: 0.2 }}
               viewport={{ once: true }}
             >
-              <h3 className="text-4xl md:text-5xl font-light lg:mt-20 text-nowrap lg:mb-20">Our target audience (stage 2 slide 11)</h3>
+              <h3 className="text-4xl md:text-5xl font-light lg:mt-5 text-nowrap lg:mb-16">Our target audience (stage 2 slide 11)</h3>
               
+              <h1 className="text-2xl lg:text-2xl font-light lg:mt-10 lg:mb-10 text-nowrap">Based on our research, we focused on two primary groups who feel the pain of food waste most strongly.</h1>
+
               {/* containers of audiences */}
-              <div className="flex flex-col lg:flex-row justify-between items-start gap-8 lg:gap-x-20">
+              <div className="flex flex-col lg:flex-row justify-between items-start gap-8 lg:gap-x-12">
 
                 <div className="bg-white rounded-2xl p-8 shadow-lg border-2 border-[#7A9D54]">
                   <div className="text-5xl md:text-6xl lg:text-3xl font-light mb-4 text-left">Gen Z & Millennials</div>
-                  <p className="text-[#2E2E2E]/60 text-left  text-nowrap">Leading the charge in food waste reduction initiatives and sustainable  <br /> consumption.
-                  They seek convenient solutions with immediate impact <br />and prefer apps that align sustainable choices with their modern lifestyle.</p>
+                  <p className="text-[#2E2E2E]/60 text-left  text-nowrap">Busy young adults who care about sustainability, 
+                  want to save money <br /> on groceries, and are comfortable using apps to support daily routines.</p>
                 </div>
 
                 <div className="bg-white rounded-2xl p-8 shadow-lg border-2 border-[#7A9D54]">
                   <div className="text-5xl md:text-6xl lg:text-3xl font-light mb-4 text-left">Household Managers</div>
-                  <p className="text-[#2E2E2E]/60 text-left text-nowrap">Often women, 
-                  they are more likely to adopt apps to help manage <br />household food waste, save money, and live sustainably</p>
+                  <p className="text-[#2E2E2E]/60 text-left text-nowrap">People who plan meals and manage groceries for their 
+                  household, <br />often women, who juggle limited time, picky eaters, 
+                  and the pressure <br />to use up food before it spoils.</p>
                 </div>
 
               </div>
             </motion.div>
           </div>
 
-        </div>
+          {/* personas */}
+          <div className="md:grid-cols-3 gap-12">
+            <motion.div
+              initial={{ opacity: 0, y: 40 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.8, delay: 0.2 }}
+              viewport={{ once: true }}
+            >
+              <h1 className="text-4xl md:text-5xl font-light lg:mt-16 text-nowrap lg:mb-16">User Persona</h1>
+
+              <h2 className="text-3xl text-nowrap italic font-normal">"I don't always have a chance to review what I 
+                have before shopping, <br />so I don't really pay attention 
+                to what's sitting in my fridge."
+              </h2>
+
+              <div className="flex flex-col lg:flex-row mt-10"> 
+                
+                <div className="mr-10"> 
+                  <img src="/sarah.png" alt="a picture of our primary persona sarah" className="rounded-3xl drop-shadow-2xl h-[560px] w-[400px]" />
+                </div>
+
+                <div className="">
+                  <h1 className="text-2xl font-semibold">Meet Sarah, <span className="italic">the on-the-go <span className="text-[#7a9d54]">household manager</span></span></h1>
+
+                  <div className="bg-[#a8c686]/75 p-6 rounded-2xl mt-10">
+                  <h2 className="text-lg font-semibold">About</h2>
+                  <h3>24-year-old household manager who cooks 5-6 days weekly <br />but struggles with fragmented kitchen inventory memory.</h3>
+                  </div>
+
+                  <div className="bg-[#a8c686]/75 p-6 rounded-2xl mt-10">
+                  <h2 className="text-lg font-semibold">Goals</h2>
+                  <h3>Wants automated tracking that predicts when to restock <br />and suggests recipes from what's already in her kitchen.</h3>
+                  </div>
+
+                  <div className="bg-[#a8c686]/75 p-6 rounded-2xl mt-10">
+                  <h2 className="text-lg font-semibold">Pain points</h2>
+                  <h3>Makes grocery decisions blind, can't recall what's home <br />or how fresh it is. Mental tracking feels overwhelming.</h3>
+                  </div>
+                </div>
+
+              </div>
+            </motion.div>
+          </div>
+
+
+        </div> 
+
       </section>
 
       <section className="py-32 px-6 md:px-12">

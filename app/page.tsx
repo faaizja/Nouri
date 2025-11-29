@@ -46,25 +46,6 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* <section className="py-24 px-6 md:px-12">
-        <motion.div
-          initial={{ opacity: 0, y: 60 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 1, ease: [0.22, 1, 0.36, 1] }}
-          viewport={{ once: true }}
-          className="max-w-7xl mx-auto"
-        >
-          <div className="relative aspect-[16/10] bg-[#F5F5F5] rounded-3xl overflow-hidden">
-            <img
-              src="/images/screenshot-202025-11-25-20at-209.png"
-              alt="Nouri app screens"
-              className="w-full h-full object-cover"
-            />
-          </div>
-        </motion.div>
-      </section> */}
-
-
       {/* about section */}
       <section className="py-24 px-6 md:px-12 bg-[#F9F9F5]">
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-20">
@@ -267,7 +248,7 @@ function ProjectShowcase() {
             viewport={{ once: true }}
             className="relative"
           >
-            <img className="lg:ml-52" src="/KI.png" height={350} width={350} alt="mockup of kitchen intelligence hub" />
+            <img className="lg:ml-52" src="/RR.png" height={350} width={350} alt="mockup of kitchen intelligence hub" />
           </motion.div>
         </div>
       </section>
@@ -328,7 +309,7 @@ function ProjectShowcase() {
             viewport={{ once: true }}
             className="relative"
           >
-            <img className="lg:ml-52" src="/NN.png" height={350} width={350} alt="mockup of nouri nexus" />
+            <img className="lg:ml-52" src="/RR.png" height={350} width={350} alt="mockup of nouri nexus" />
           </motion.div>
         </div>
       </section>
