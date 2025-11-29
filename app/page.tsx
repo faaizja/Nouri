@@ -256,8 +256,7 @@ function ProjectShowcase() {
             <h4 className="text-[#2E2E2E]/65 mb-2">Feature 1 - Track what you have</h4>
             <h3 className="text-4xl md:text-5xl font-light mb-6 text-balance">Kitchen Intelligence Hub</h3>
             <p className="text-lg text-[#2E2E2E]/70 leading-relaxed">
-              Kitchen Intelligence Hub
-Nouri keeps a live snapshot of what’s in your kitchen, what’s expiring soon, and how efficiently you’re using food. From here you can add items, scan receipts, and see at a glance what needs attention today.
+              Nouri keeps a live snapshot of what’s in your kitchen, what’s expiring soon, and how efficiently you’re using food. From here you can add items, scan receipts, and see at a glance what needs attention today.
             </p>
           </motion.div>
 
@@ -268,12 +267,7 @@ Nouri keeps a live snapshot of what’s in your kitchen, what’s expiring soon,
             viewport={{ once: true }}
             className="relative"
           >
-            <div className="aspect-[9/16] max-w-sm mx-auto bg-[#F5F5F5] rounded-[3rem] overflow-hidden shadow-2xl border-8 border-[#2E2E2E]">
-              <div className="w-full h-full bg-gradient-to-br from-[#A8C686]/20 to-[#7A9D54]/20 flex items-center justify-center p-8">
-                <p className="text-center text-sm text-[#2E2E2E]/50">Will be replaced with either mockup of the main feature - 
-                or we could have a recording of the feature being used playing in a mockup?</p>
-              </div>
-            </div>
+            <img className="lg:ml-52" src="/KI.png" height={350} width={350} alt="mockup of kitchen intelligence hub" />
           </motion.div>
         </div>
       </section>
@@ -291,12 +285,7 @@ Nouri keeps a live snapshot of what’s in your kitchen, what’s expiring soon,
             viewport={{ once: true }}
             className="relative"
           >
-            <div className="aspect-[9/16] max-w-sm mx-auto bg-[#F5F5F5] rounded-[3rem] overflow-hidden shadow-2xl border-8 border-[#2E2E2E]">
-              <div className="w-full h-full bg-gradient-to-br from-[#A8C686]/20 to-[#7A9D54]/20 flex items-center justify-center p-8">
-                <p className="text-center text-sm text-[#2E2E2E]/50">Will be replaced with either mockup of the main feature - 
-                or we could have a recording of the feature being used playing in a mockup?</p>
-              </div>
-            </div>
+              <img className="lg:ml-20" src="/RR.png" height={350} width={350} alt="mockup of recipe rescue" />
           </motion.div>
 
           <motion.div
@@ -339,12 +328,7 @@ Nouri keeps a live snapshot of what’s in your kitchen, what’s expiring soon,
             viewport={{ once: true }}
             className="relative"
           >
-            <div className="aspect-[9/16] max-w-sm mx-auto bg-[#F5F5F5] rounded-[3rem] overflow-hidden shadow-2xl border-8 border-[#2E2E2E]">
-              <div className="w-full h-full bg-gradient-to-br from-[#A8C686]/20 to-[#7A9D54]/20 flex items-center justify-center p-8">
-                <p className="text-center text-sm text-[#2E2E2E]/50">Will be replaced with either mockup of the main feature - 
-                or we could have a recording of the feature being used playing in a mockup?</p>
-              </div>
-            </div>
+            <img className="lg:ml-52" src="/NN.png" height={350} width={350} alt="mockup of nouri nexus" />
           </motion.div>
         </div>
       </section>

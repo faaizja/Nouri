@@ -1,9 +1,75 @@
-[00:00:00.866] Server  LOG      ✓ Ready in 589ms
-[00:00:04.118] Server  WARN     ⚠ Cross origin request detected from 192.168.0.86 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+[00:00:01.093] Server  LOG      ✓ Ready in 845ms
+[00:00:01.094] Server  WARN     ⚠ Cross origin request detected from 192.168.0.86 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
 Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
-[00:00:04.909] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:05.366] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:05.366] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
-[00:00:05.366] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.86:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.86:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764392789472}
-[00:13:17.173] Server  LOG      ✓ Compiled in 447ms
-[00:13:34.192] Server  LOG      ✓ Compiled in 67ms
+[00:00:06.461] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.992] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:06.992] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
+[00:00:06.992] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.86:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.86:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764393626220}
+[00:01:50.931] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:01:50.932] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[00:01:50.932] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.86:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.0.86:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764393730189}
+[00:07:37.739] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.86:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.86:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764394077026}
+[00:07:41.784] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.86:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.0.86:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764394081073}
+[00:12:18.974] Server  LOG      ✓ Compiled in 772ms
+[00:12:31.859] Server  LOG      ✓ Compiled in 132ms
+[00:12:31.993] Browser ERROR   ./app/page.tsx:297:19
+Parsing ecmascript source code failed
+  295 |
+  296 |               </div>
+> 297 |             </div>
+      |                   ^
+> 298 |           </motion.div>
+      | ^^^^^^^^^^^
+  299 |
+  300 |           <motion.div
+  301 |             initial={{ opacity: 0, y: 40 }}
+
+Expected '</', got 'jsx text (
+          )'
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:12:46.708] Server  LOG      ✓ Compiled in 85ms
+[00:12:57.914] Server  LOG      ✓ Compiled in 83ms
+[00:12:58.313] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:13:08.865] Server  LOG      ✓ Compiled in 182ms
+[00:13:14.248] Server  LOG      ✓ Compiled in 71ms
+[00:13:49.103] Server  LOG      ✓ Compiled in 55ms
+[00:13:57.360] Server  LOG      ✓ Compiled in 99ms
+[00:14:02.865] Server  LOG      ✓ Compiled in 61ms
+[00:14:10.037] Server  LOG      ✓ Compiled in 69ms
+[00:14:18.109] Server  LOG      ✓ Compiled in 77ms
+[00:15:49.353] Server  LOG      ✓ Compiled in 62ms
+[00:15:56.648] Server  LOG      ✓ Compiled in 61ms
+[00:16:28.459] Server  LOG      ✓ Compiled in 60ms
+[00:16:37.985] Server  LOG      ✓ Compiled in 72ms
+[00:16:49.923] Server  LOG      ✓ Compiled in 437ms
+[00:16:53.149] Server  LOG      ✓ Compiled in 58ms
+[00:17:16.530] Server  LOG      ✓ Compiled in 194ms
+[00:17:21.779] Server  LOG      ✓ Compiled in 119ms
+[00:17:27.813] Server  LOG      ✓ Compiled in 124ms
+[00:17:34.501] Server  LOG      ✓ Compiled in 114ms
+[00:17:46.807] Server  LOG      ✓ Compiled in 125ms
+[00:17:53.091] Server  LOG      ✓ Compiled in 106ms
+[00:18:17.216] Server  LOG      ✓ Compiled in 71ms
+[00:18:27.496] Server  LOG      ✓ Compiled in 151ms
+[00:18:34.615] Server  LOG      ✓ Compiled in 62ms
+[00:18:42.908] Server  LOG      ✓ Compiled in 87ms
+[00:18:47.683] Server  LOG      ✓ Compiled in 65ms
+[00:19:02.526] Server  LOG      ✓ Compiled in 65ms
+[00:19:05.916] Server  LOG      ✓ Compiled in 54ms
+[00:19:36.792] Server  LOG      ✓ Compiled in 160ms
+[00:19:45.640] Server  LOG      ✓ Compiled in 101ms
+[00:19:52.428] Server  LOG      ✓ Compiled in 565ms
+[00:19:58.711] Server  LOG      ✓ Compiled in 130ms
+[00:20:26.454] Server  LOG      ✓ Compiled in 73ms
+[00:20:41.415] Server  LOG      ✓ Compiled in 67ms
+[00:20:54.626] Server  LOG      ✓ Compiled in 59ms
+[00:21:08.752] Server  LOG      ✓ Compiled in 54ms
+[00:21:48.651] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.86:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.86:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764394927939}
