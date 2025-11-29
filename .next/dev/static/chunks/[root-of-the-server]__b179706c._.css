@@ -3284,12 +3284,6 @@
   }
 
   @media (hover: hover) {
-    .hover\:bg-\[\#2E2E2E\]:hover {
-      background-color: #2e2e2e;
-    }
-  }
-
-  @media (hover: hover) {
     .hover\:bg-\[\#7a9d54\]:hover {
       background-color: #7a9d54;
     }
@@ -3370,12 +3364,6 @@
   @media (hover: hover) {
     .hover\:bg-sidebar-accent:hover {
       background-color: var(--sidebar-accent);
-    }
-  }
-
-  @media (hover: hover) {
-    .hover\:text-\[\#2E2E2E\]:hover {
-      color: #2e2e2e;
     }
   }
 

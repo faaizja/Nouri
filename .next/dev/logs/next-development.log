@@ -1,17 +1,9 @@
-[00:00:00.773] Server  LOG      ✓ Ready in 545ms
-[00:00:10.968] Server  WARN     ⚠ Cross origin request detected from 192.168.0.86 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+[00:00:00.866] Server  LOG      ✓ Ready in 589ms
+[00:00:04.118] Server  WARN     ⚠ Cross origin request detected from 192.168.0.86 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
 Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
-[00:00:11.610] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:11.879] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:11.879] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
-[00:00:11.879] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.86:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.86:3000/process","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764392332624}
-[00:00:18.331] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:00:18.331] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
-[00:00:18.331] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.86:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.0.86:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764392339077}
-[00:00:34.013] Server  LOG      ✓ Compiled in 104ms
-[00:00:49.479] Server  LOG      ✓ Compiled in 74ms
-[00:02:33.019] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.86:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.86:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764392473765}
-[00:02:37.399] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.86:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.0.86:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764392478144}
-[00:03:15.599] Server  LOG      ✓ Compiled in 143ms
-[00:03:25.691] Server  LOG      ✓ Compiled in 108ms
-[00:03:44.530] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.86:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.86:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764392545274}
+[00:00:04.909] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:05.366] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:05.366] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
+[00:00:05.366] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.86:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.86:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764392789472}
+[00:13:17.173] Server  LOG      ✓ Compiled in 447ms
+[00:13:34.192] Server  LOG      ✓ Compiled in 67ms

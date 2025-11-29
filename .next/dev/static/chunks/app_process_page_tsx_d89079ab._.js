@@ -968,7 +968,7 @@ function ProcessPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-[#2E2E2E]/70 leading-relaxed",
-                                        children: "we can talk about initial ideas here and what our approach was when we started designing the ui and screens. in the image box below it could be the mid-fidelity wireframes wireframes"
+                                        children: "we can talk about initial ideas here and what our approach was when we started designing the ui and screens. in the image box above could be the mid-fidelity wireframes wireframes"
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
                                         lineNumber: 275,
@@ -1049,7 +1049,7 @@ function ProcessPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-[#2E2E2E]/70 leading-relaxed",
-                                        children: "over here we can talk about the final design and how it was implemented and what we learned from the process and the final wireframes in the image box below"
+                                        children: "over here we can talk about the final design and how it was implemented and what we learned from the process and the final wireframes in the image box above"
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
                                         lineNumber: 300,

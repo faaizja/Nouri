@@ -273,7 +273,7 @@ export default function ProcessPage() {
             >
               <h4 className="text-2xl font-light mb-4">Initial Concept</h4>
               <p className="text-[#2E2E2E]/70 leading-relaxed">
-                we can talk about initial ideas here and what our approach was when we started designing the ui and screens. in the image box below it could be the mid-fidelity wireframes wireframes
+                we can talk about initial ideas here and what our approach was when we started designing the ui and screens. in the image box above could be the mid-fidelity wireframes wireframes
               </p>
             </motion.div>
           </div>
@@ -298,7 +298,7 @@ export default function ProcessPage() {
             >
               <h4 className="text-2xl font-light mb-4">Final Design</h4>
               <p className="text-[#2E2E2E]/70 leading-relaxed">
-                over here we can talk about the final design and how it was implemented and what we learned from the process and the final wireframes in the image box below
+                over here we can talk about the final design and how it was implemented and what we learned from the process and the final wireframes in the image box above
               </p>
             </motion.div>
           </div>
