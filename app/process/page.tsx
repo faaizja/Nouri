@@ -240,14 +240,14 @@ export default function ProcessPage() {
               transition={{ duration: 0.8, delay: 0.2 }}
               viewport={{ once: true }}
             >
-              <h1 className="text-4xl md:text-5xl font-light lg:mt-16 text-nowrap lg:mb-16">User Persona</h1>
+              <h1 className="text-4xl md:text-5xl font-light lg:mt-16 text-nowrap lg:mb-12">User Persona</h1>
 
               <h2 className="text-3xl text-nowrap italic font-normal">"I don't always have a chance to review what I 
                 have before shopping, <br />so I don't really pay attention 
                 to what's sitting in my fridge."
               </h2>
 
-              <div className="flex flex-col lg:flex-row mt-10"> 
+              <div className="flex flex-col justify-evenly lg:flex-row mt-10"> 
                 
                 <div className="mr-10"> 
                   <img src="/sarah.png" alt="a picture of our primary persona sarah" className="rounded-3xl drop-shadow-2xl h-[560px] w-[400px]" />
