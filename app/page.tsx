@@ -85,7 +85,7 @@ export default function LandingPage() {
 
 
      {/* value section */}
-      <section className="py-24 px-6 md:px-12 bg-[#F9F9F5]">
+      <section className="py-24 px-6 md:px-12 bg-[#a8c686]/40">
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-20">
           
           {/* This is the content block (left column on desktop) */}
@@ -207,6 +207,9 @@ function Header() {
           </Link>
           <Link href="/process" className="text-sm hover:text-[#7A9D54] transition-colors">
             Process
+          </Link>
+          <Link href="/members" className="text-sm hover:text-[#7A9D54] transition-colors">
+            The Team
           </Link>
         </div>
 

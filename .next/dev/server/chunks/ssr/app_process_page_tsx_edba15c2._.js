@@ -335,7 +335,7 @@ function ProcessPage() {
                             viewport: {
                                 once: true
                             },
-                            className: "mb-20",
+                            className: "mb-10",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     className: "text-sm uppercase tracking-wider text-[#2E2E2E]/60 mb-4",
@@ -379,8 +379,8 @@ function ProcessPage() {
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "text-5xl md:text-6xl font-light mb-4",
-                                            children: "%"
+                                            className: "text-5xl md:text-6xl font-light mb-4 text-[#7a9d54]",
+                                            children: "93%"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
                                             lineNumber: 121,
@@ -418,8 +418,8 @@ function ProcessPage() {
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "text-5xl md:text-6xl font-light mb-4",
-                                            children: "%"
+                                            className: "text-5xl md:text-6xl font-light mb-4 text-[#7a9d54]",
+                                            children: "40%"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
                                             lineNumber: 131,
@@ -457,8 +457,8 @@ function ProcessPage() {
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "text-5xl md:text-6xl font-light mb-4",
-                                            children: "%"
+                                            className: "text-5xl md:text-6xl font-light mb-4 text-[#7a9d54]",
+                                            children: "90%"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
                                             lineNumber: 141,
@@ -504,15 +504,15 @@ function ProcessPage() {
                                 },
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                        className: "text-4xl md:text-5xl font-light lg:mt-20 text-nowrap lg:mb-20",
-                                        children: "Three levels of findings (stage 2 slide 5)"
+                                        className: "text-4xl md:text-5xl font-light lg:mt-20 text-nowrap lg:mb-12",
+                                        children: "Three levels of findings"
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
                                         lineNumber: 154,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "flex flex-col lg:flex-row justify-between items-start gap-8 lg:gap-x-64",
+                                        className: "flex flex-col lg:flex-row justify-between items-start gap-8 lg:gap-x-80",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "flex-1 text-center lg:text-left lg:text-nowrap",
@@ -534,8 +534,8 @@ function ProcessPage() {
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                        className: "text-[#2E2E2E]/60",
-                                                        children: "food waste is rarely intentional"
+                                                        className: "text-[#2E2E2E]/60 text-wrap",
+                                                        children: "Food waste is rarely intentional. People forget what’s in their fridge or misjudge expiry dates. Users see sustainability as saving time and money, not just being eco-friendly."
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/process/page.tsx",
                                                         lineNumber: 159,
@@ -556,28 +556,28 @@ function ProcessPage() {
                                                             "System-Level ",
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                 fileName: "[project]/app/process/page.tsx",
-                                                                lineNumber: 163,
+                                                                lineNumber: 165,
                                                                 columnNumber: 98
                                                             }, this),
                                                             " findings"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/app/process/page.tsx",
-                                                        lineNumber: 163,
+                                                        lineNumber: 165,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                        className: "text-[#2E2E2E]/60",
-                                                        children: "food waste is rarely intentional"
+                                                        className: "text-[#2E2E2E]/60 text-wrap",
+                                                        children: "Households cause 40–50% of food waste due to poor planning, tracking, and visibility. The core issue is behavioural; not knowing what’s owned, needed, or expiring soon."
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/process/page.tsx",
-                                                        lineNumber: 164,
+                                                        lineNumber: 166,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 162,
+                                                lineNumber: 164,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -589,28 +589,28 @@ function ProcessPage() {
                                                             "Tech-Level ",
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                 fileName: "[project]/app/process/page.tsx",
-                                                                lineNumber: 168,
+                                                                lineNumber: 172,
                                                                 columnNumber: 96
                                                             }, this),
                                                             " findings"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/app/process/page.tsx",
-                                                        lineNumber: 168,
+                                                        lineNumber: 172,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                        className: "text-[#2E2E2E]/60",
-                                                        children: "food waste is rarely intentional"
+                                                        className: "text-[#2E2E2E]/60 text-wrap",
+                                                        children: "Existing apps stop at tracking or recipes but fail to link planning → buying → using. Tools require heavy manual input and lack motivation or feedback loops."
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/process/page.tsx",
-                                                        lineNumber: 169,
+                                                        lineNumber: 173,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 167,
+                                                lineNumber: 171,
                                                 columnNumber: 17
                                             }, this)
                                         ]
@@ -620,7 +620,7 @@ function ProcessPage() {
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
-                                        className: "mt-28 mb-16",
+                                        className: "mt-24 mb-16",
                                         initial: {
                                             opacity: 0,
                                             y: 50
@@ -643,7 +643,7 @@ function ProcessPage() {
                                                     className: "absolute -left-4 top-1/2 transform -translate-y-1/2 w-2 h-24 bg-[#a8c686] rounded-full"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/process/page.tsx",
-                                                    lineNumber: 182,
+                                                    lineNumber: 188,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -655,12 +655,12 @@ function ProcessPage() {
                                                             children: "narrow in"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/process/page.tsx",
-                                                            lineNumber: 184,
+                                                            lineNumber: 190,
                                                             columnNumber: 46
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                             fileName: "[project]/app/process/page.tsx",
-                                                            lineNumber: 184,
+                                                            lineNumber: 190,
                                                             columnNumber: 98
                                                         }, this),
                                                         "on who our ",
@@ -685,31 +685,31 @@ function ProcessPage() {
                                                                     }
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/app/process/page.tsx",
-                                                                    lineNumber: 187,
+                                                                    lineNumber: 193,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/app/process/page.tsx",
-                                                            lineNumber: 185,
+                                                            lineNumber: 191,
                                                             columnNumber: 32
                                                         }, this),
                                                         " should serve."
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/app/process/page.tsx",
-                                                    lineNumber: 183,
+                                                    lineNumber: 189,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 181,
+                                            lineNumber: 187,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 174,
+                                        lineNumber: 180,
                                         columnNumber: 15
                                     }, this)
                                 ]
@@ -747,7 +747,7 @@ function ProcessPage() {
                                         children: "Our target audience (stage 2 slide 11)"
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 211,
+                                        lineNumber: 217,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -755,7 +755,7 @@ function ProcessPage() {
                                         children: "Based on our research, we focused on two primary groups who feel the pain of food waste most strongly."
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 213,
+                                        lineNumber: 219,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -769,7 +769,7 @@ function ProcessPage() {
                                                         children: "Gen Z & Millennials"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/process/page.tsx",
-                                                        lineNumber: 219,
+                                                        lineNumber: 225,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -778,49 +778,10 @@ function ProcessPage() {
                                                             "Busy young adults who care about sustainability, want to save money ",
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                 fileName: "[project]/app/process/page.tsx",
-                                                                lineNumber: 221,
+                                                                lineNumber: 227,
                                                                 columnNumber: 38
                                                             }, this),
                                                             " on groceries, and are comfortable using apps to support daily routines."
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/app/process/page.tsx",
-                                                        lineNumber: 220,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 218,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "bg-white rounded-2xl p-8 shadow-lg border-2 border-[#7A9D54]",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "text-5xl md:text-6xl lg:text-3xl font-light mb-4 text-left",
-                                                        children: "Household Managers"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/app/process/page.tsx",
-                                                        lineNumber: 225,
-                                                        columnNumber: 19
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                        className: "text-[#2E2E2E]/60 text-left text-nowrap",
-                                                        children: [
-                                                            "People who plan meals and manage groceries for their household, ",
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                                                fileName: "[project]/app/process/page.tsx",
-                                                                lineNumber: 227,
-                                                                columnNumber: 30
-                                                            }, this),
-                                                            "often women, who juggle limited time, picky eaters, and the pressure ",
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                                                fileName: "[project]/app/process/page.tsx",
-                                                                lineNumber: 228,
-                                                                columnNumber: 36
-                                                            }, this),
-                                                            "to use up food before it spoils."
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/app/process/page.tsx",
@@ -832,22 +793,61 @@ function ProcessPage() {
                                                 fileName: "[project]/app/process/page.tsx",
                                                 lineNumber: 224,
                                                 columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "bg-white rounded-2xl p-8 shadow-lg border-2 border-[#7A9D54]",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "text-5xl md:text-6xl lg:text-3xl font-light mb-4 text-left",
+                                                        children: "Household Managers"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/app/process/page.tsx",
+                                                        lineNumber: 231,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                        className: "text-[#2E2E2E]/60 text-left text-nowrap",
+                                                        children: [
+                                                            "People who plan meals and manage groceries for their household, ",
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                                fileName: "[project]/app/process/page.tsx",
+                                                                lineNumber: 233,
+                                                                columnNumber: 30
+                                                            }, this),
+                                                            "often women, who juggle limited time, picky eaters, and the pressure ",
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                                fileName: "[project]/app/process/page.tsx",
+                                                                lineNumber: 234,
+                                                                columnNumber: 36
+                                                            }, this),
+                                                            "to use up food before it spoils."
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/app/process/page.tsx",
+                                                        lineNumber: 232,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/app/process/page.tsx",
+                                                lineNumber: 230,
+                                                columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 216,
+                                        lineNumber: 222,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/process/page.tsx",
-                                lineNumber: 205,
+                                lineNumber: 211,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 204,
+                            lineNumber: 210,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -874,7 +874,7 @@ function ProcessPage() {
                                         children: "User Persona"
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 243,
+                                        lineNumber: 249,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -883,14 +883,14 @@ function ProcessPage() {
                                             "\"I don't always have a chance to review what I have before shopping, ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 246,
+                                                lineNumber: 252,
                                                 columnNumber: 39
                                             }, this),
                                             "so I don't really pay attention to what's sitting in my fridge.\""
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 245,
+                                        lineNumber: 251,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -904,12 +904,12 @@ function ProcessPage() {
                                                     className: "rounded-3xl drop-shadow-2xl h-[560px] w-[400px]"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/process/page.tsx",
-                                                    lineNumber: 253,
+                                                    lineNumber: 259,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 252,
+                                                lineNumber: 258,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -928,19 +928,19 @@ function ProcessPage() {
                                                                         children: "household manager"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/app/process/page.tsx",
-                                                                        lineNumber: 257,
+                                                                        lineNumber: 263,
                                                                         columnNumber: 109
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/app/process/page.tsx",
-                                                                lineNumber: 257,
+                                                                lineNumber: 263,
                                                                 columnNumber: 70
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/app/process/page.tsx",
-                                                        lineNumber: 257,
+                                                        lineNumber: 263,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -951,7 +951,7 @@ function ProcessPage() {
                                                                 children: "About"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/process/page.tsx",
-                                                                lineNumber: 260,
+                                                                lineNumber: 266,
                                                                 columnNumber: 19
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -959,20 +959,20 @@ function ProcessPage() {
                                                                     "24-year-old household manager who cooks 5-6 days weekly ",
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                         fileName: "[project]/app/process/page.tsx",
-                                                                        lineNumber: 261,
+                                                                        lineNumber: 267,
                                                                         columnNumber: 79
                                                                     }, this),
                                                                     "but struggles with fragmented kitchen inventory memory."
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/app/process/page.tsx",
-                                                                lineNumber: 261,
+                                                                lineNumber: 267,
                                                                 columnNumber: 19
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/app/process/page.tsx",
-                                                        lineNumber: 259,
+                                                        lineNumber: 265,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -983,7 +983,7 @@ function ProcessPage() {
                                                                 children: "Goals"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/process/page.tsx",
-                                                                lineNumber: 265,
+                                                                lineNumber: 271,
                                                                 columnNumber: 19
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -991,20 +991,20 @@ function ProcessPage() {
                                                                     "Wants automated tracking that predicts when to restock ",
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                         fileName: "[project]/app/process/page.tsx",
-                                                                        lineNumber: 266,
+                                                                        lineNumber: 272,
                                                                         columnNumber: 78
                                                                     }, this),
                                                                     "and suggests recipes from what's already in her kitchen."
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/app/process/page.tsx",
-                                                                lineNumber: 266,
+                                                                lineNumber: 272,
                                                                 columnNumber: 19
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/app/process/page.tsx",
-                                                        lineNumber: 264,
+                                                        lineNumber: 270,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1015,7 +1015,7 @@ function ProcessPage() {
                                                                 children: "Pain points"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/process/page.tsx",
-                                                                lineNumber: 270,
+                                                                lineNumber: 276,
                                                                 columnNumber: 19
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1023,32 +1023,32 @@ function ProcessPage() {
                                                                     "Makes grocery decisions blind, can't recall what's home ",
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                         fileName: "[project]/app/process/page.tsx",
-                                                                        lineNumber: 271,
+                                                                        lineNumber: 277,
                                                                         columnNumber: 79
                                                                     }, this),
                                                                     "or how fresh it is. Mental tracking feels overwhelming."
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/app/process/page.tsx",
-                                                                lineNumber: 271,
+                                                                lineNumber: 277,
                                                                 columnNumber: 19
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/app/process/page.tsx",
-                                                        lineNumber: 269,
+                                                        lineNumber: 275,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 256,
+                                                lineNumber: 262,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 250,
+                                        lineNumber: 256,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1075,7 +1075,7 @@ function ProcessPage() {
                                                     className: "absolute -left-4 top-1/2 transform -translate-y-1/2 w-2 h-24 bg-[#a8c686] rounded-full"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/process/page.tsx",
-                                                    lineNumber: 287,
+                                                    lineNumber: 293,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -1087,12 +1087,12 @@ function ProcessPage() {
                                                             children: "three"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/process/page.tsx",
-                                                            lineNumber: 289,
+                                                            lineNumber: 295,
                                                             columnNumber: 46
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                             fileName: "[project]/app/process/page.tsx",
-                                                            lineNumber: 289,
+                                                            lineNumber: 295,
                                                             columnNumber: 94
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1116,48 +1116,48 @@ function ProcessPage() {
                                                                     }
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/app/process/page.tsx",
-                                                                    lineNumber: 292,
+                                                                    lineNumber: 298,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/app/process/page.tsx",
-                                                            lineNumber: 290,
+                                                            lineNumber: 296,
                                                             columnNumber: 22
                                                         }, this),
                                                         "  that work together ",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                             fileName: "[project]/app/process/page.tsx",
-                                                            lineNumber: 299,
+                                                            lineNumber: 305,
                                                             columnNumber: 49
                                                         }, this),
                                                         " across the full food journey."
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/app/process/page.tsx",
-                                                    lineNumber: 288,
+                                                    lineNumber: 294,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 286,
+                                            lineNumber: 292,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 279,
+                                        lineNumber: 285,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/process/page.tsx",
-                                lineNumber: 237,
+                                lineNumber: 243,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 236,
+                            lineNumber: 242,
                             columnNumber: 11
                         }, this)
                     ]
@@ -1197,7 +1197,7 @@ function ProcessPage() {
                                     children: "Solution"
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 320,
+                                    lineNumber: 326,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1205,13 +1205,13 @@ function ProcessPage() {
                                     children: "Three Core Features"
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 321,
+                                    lineNumber: 327,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 314,
+                            lineNumber: 320,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1239,7 +1239,7 @@ function ProcessPage() {
                                             children: "Kitchen Intelligence Hub"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 332,
+                                            lineNumber: 338,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1247,13 +1247,13 @@ function ProcessPage() {
                                             children: "Automated tracking with smart expiration alerts to prevent food waste before it happens."
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 333,
+                                            lineNumber: 339,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 331,
+                                    lineNumber: 337,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1263,7 +1263,7 @@ function ProcessPage() {
                                             children: "Recipe Rescue"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 339,
+                                            lineNumber: 345,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1271,13 +1271,13 @@ function ProcessPage() {
                                             children: "AI-powered meal suggestions using available ingredients and dietary preferences."
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 340,
+                                            lineNumber: 346,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 338,
+                                    lineNumber: 344,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1287,7 +1287,7 @@ function ProcessPage() {
                                             children: "Nouri Nexus"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 346,
+                                            lineNumber: 352,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1295,30 +1295,30 @@ function ProcessPage() {
                                             children: "Visual impact tracking showing waste reduction, cost savings, and environmental benefits."
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 347,
+                                            lineNumber: 353,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 345,
+                                    lineNumber: 351,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 324,
+                            lineNumber: 330,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/process/page.tsx",
-                    lineNumber: 313,
+                    lineNumber: 319,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/process/page.tsx",
-                lineNumber: 311,
+                lineNumber: 317,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1348,7 +1348,7 @@ function ProcessPage() {
                                     children: "Design Evolution"
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 365,
+                                    lineNumber: 371,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1356,13 +1356,13 @@ function ProcessPage() {
                                     children: "From Concept to Reality"
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 366,
+                                    lineNumber: 372,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 358,
+                            lineNumber: 364,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1388,17 +1388,17 @@ function ProcessPage() {
                                     children: "Design evolution mockups"
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 377,
+                                    lineNumber: 383,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/app/process/page.tsx",
-                                lineNumber: 376,
+                                lineNumber: 382,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 369,
+                            lineNumber: 375,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1424,7 +1424,7 @@ function ProcessPage() {
                                         children: "Initial Concept"
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 388,
+                                        lineNumber: 394,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1433,37 +1433,37 @@ function ProcessPage() {
                                             "Our early sketches focused on a simple pantry list and one off recipe suggestions. ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 390,
+                                                lineNumber: 396,
                                                 columnNumber: 100
                                             }, this),
                                             "As we tested low and mid fidelity prototypes, we realized that users needed clearer ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 392,
+                                                lineNumber: 398,
                                                 columnNumber: 26
                                             }, this),
                                             "guidance at each step of their routine. This pushed us to design a more structured ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 393,
+                                                lineNumber: 399,
                                                 columnNumber: 34
                                             }, this),
                                             "system that connects shopping, storing, cooking, and logging waste."
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 389,
+                                        lineNumber: 395,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/process/page.tsx",
-                                lineNumber: 382,
+                                lineNumber: 388,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 381,
+                            lineNumber: 387,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1489,17 +1489,17 @@ function ProcessPage() {
                                     children: "Design evolution mockups"
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 406,
+                                    lineNumber: 412,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/app/process/page.tsx",
-                                lineNumber: 405,
+                                lineNumber: 411,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 398,
+                            lineNumber: 404,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1525,7 +1525,7 @@ function ProcessPage() {
                                         children: "Final Design"
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 416,
+                                        lineNumber: 422,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1534,48 +1534,48 @@ function ProcessPage() {
                                             "The final interface brings those pieces together in a calm, minimal visual style. ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 419,
+                                                lineNumber: 425,
                                                 columnNumber: 39
                                             }, this),
                                             " We refined layouts, typography, and button patterns to create a consistent ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 420,
+                                                lineNumber: 426,
                                                 columnNumber: 56
                                             }, this),
                                             "experience across all three features. We aimed to have every screen support ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 421,
+                                                lineNumber: 427,
                                                 columnNumber: 71
                                             }, this),
                                             "quick scanning, clear actions, and have a sense of progress towards wasting less food."
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 417,
+                                        lineNumber: 423,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/process/page.tsx",
-                                lineNumber: 410,
+                                lineNumber: 416,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 409,
+                            lineNumber: 415,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/process/page.tsx",
-                    lineNumber: 357,
+                    lineNumber: 363,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/process/page.tsx",
-                lineNumber: 356,
+                lineNumber: 362,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1605,7 +1605,7 @@ function ProcessPage() {
                                     children: "Testing & Results"
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 440,
+                                    lineNumber: 446,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1613,7 +1613,7 @@ function ProcessPage() {
                                     children: "Validation Through Users"
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 441,
+                                    lineNumber: 447,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1621,13 +1621,13 @@ function ProcessPage() {
                                     children: "We tested multiple iterations of Nouri with users who regularly cook at home. Participants walked through realistic scenarios, spoke aloud as they used the prototype, and reflected on what felt confusing or helpful. Their feedback shaped everything from button hierarchy to how we structured the cooking assistant and waste logging flows."
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 442,
+                                    lineNumber: 448,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 433,
+                            lineNumber: 439,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1655,7 +1655,7 @@ function ProcessPage() {
                                             children: "14"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 458,
+                                            lineNumber: 464,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1663,13 +1663,13 @@ function ProcessPage() {
                                             children: "User Testing Sessions"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 459,
+                                            lineNumber: 465,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 451,
+                                    lineNumber: 457,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1695,7 +1695,7 @@ function ProcessPage() {
                                             children: "3"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 469,
+                                            lineNumber: 475,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1703,13 +1703,13 @@ function ProcessPage() {
                                             children: "Major Iterations"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 470,
+                                            lineNumber: 476,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 462,
+                                    lineNumber: 468,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1735,7 +1735,7 @@ function ProcessPage() {
                                             children: "97%"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 480,
+                                            lineNumber: 486,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1743,30 +1743,30 @@ function ProcessPage() {
                                             children: "User Satisfaction"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 481,
+                                            lineNumber: 487,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 473,
+                                    lineNumber: 479,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 450,
+                            lineNumber: 456,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/process/page.tsx",
-                    lineNumber: 432,
+                    lineNumber: 438,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/process/page.tsx",
-                lineNumber: 431,
+                lineNumber: 437,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1796,7 +1796,7 @@ function ProcessPage() {
                                     children: "Final Prototype"
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 497,
+                                    lineNumber: 503,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1805,26 +1805,26 @@ function ProcessPage() {
                                         "Our current prototype reflects the best version of Nouri from this course. ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 500,
+                                            lineNumber: 506,
                                             columnNumber: 41
                                         }, this),
                                         " It shows how kitchen inventory, recipes, and impact tracking can work together ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 502,
+                                            lineNumber: 508,
                                             columnNumber: 23
                                         }, this),
                                         "in one coherent experience, giving us a strong foundation for future development."
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 498,
+                                    lineNumber: 504,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 490,
+                            lineNumber: 496,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1856,38 +1856,38 @@ function ProcessPage() {
                                         allowFullScreen: true
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 516,
+                                        lineNumber: 522,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 515,
+                                    lineNumber: 521,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/app/process/page.tsx",
-                                lineNumber: 514,
+                                lineNumber: 520,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 507,
+                            lineNumber: 513,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/process/page.tsx",
-                    lineNumber: 489,
+                    lineNumber: 495,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/process/page.tsx",
-                lineNumber: 488,
+                lineNumber: 494,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Footer, {}, void 0, false, {
                 fileName: "[project]/app/process/page.tsx",
-                lineNumber: 530,
+                lineNumber: 536,
                 columnNumber: 7
             }, this)
         ]
@@ -1920,7 +1920,7 @@ function Header() {
                     children: "Nouri"
                 }, void 0, false, {
                     fileName: "[project]/app/process/page.tsx",
-                    lineNumber: 546,
+                    lineNumber: 552,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1932,7 +1932,7 @@ function Header() {
                             children: "Home"
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 551,
+                            lineNumber: 557,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -1941,24 +1941,33 @@ function Header() {
                             children: "Process"
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 554,
+                            lineNumber: 560,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                            href: "/members",
+                            className: "text-sm hover:text-[#7A9D54] transition-colors",
+                            children: "The Team"
+                        }, void 0, false, {
+                            fileName: "[project]/app/process/page.tsx",
+                            lineNumber: 563,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/process/page.tsx",
-                    lineNumber: 550,
+                    lineNumber: 556,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/app/process/page.tsx",
-            lineNumber: 545,
+            lineNumber: 551,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/process/page.tsx",
-        lineNumber: 539,
+        lineNumber: 545,
         columnNumber: 5
     }, this);
 }
@@ -1972,17 +1981,17 @@ function Footer() {
                 children: "© Nouri 2025 | All Rights Reserved"
             }, void 0, false, {
                 fileName: "[project]/app/process/page.tsx",
-                lineNumber: 568,
+                lineNumber: 577,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/app/process/page.tsx",
-            lineNumber: 567,
+            lineNumber: 576,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/process/page.tsx",
-        lineNumber: 566,
+        lineNumber: 575,
         columnNumber: 5
     }, this);
 }

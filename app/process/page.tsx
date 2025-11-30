@@ -105,7 +105,7 @@ export default function ProcessPage() {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
-            className="mb-20"
+            className="mb-10"
           >
             <h2 className="text-sm uppercase tracking-wider text-[#2E2E2E]/60 mb-4">Research</h2>
             <h3 className="text-4xl md:text-5xl font-light">Key Insights</h3>
@@ -118,7 +118,7 @@ export default function ProcessPage() {
               transition={{ duration: 0.8 }}
               viewport={{ once: true }}
             >
-              <div className="text-5xl md:text-6xl font-light mb-4">%</div>
+              <div className="text-5xl md:text-6xl font-light mb-4 text-[#7a9d54]">93%</div>
               <p className="text-[#2E2E2E]/60">of users forget about food in their fridge until it expires</p>
             </motion.div>
 
@@ -128,7 +128,7 @@ export default function ProcessPage() {
               transition={{ duration: 0.8, delay: 0.1 }}
               viewport={{ once: true }}
             >
-              <div className="text-5xl md:text-6xl font-light mb-4">%</div>
+              <div className="text-5xl md:text-6xl font-light mb-4 text-[#7a9d54]">40%</div>
               <p className="text-[#2E2E2E]/60">of purchased food ends up in the trash</p>
             </motion.div>
 
@@ -138,7 +138,7 @@ export default function ProcessPage() {
               transition={{ duration: 0.8, delay: 0.2 }}
               viewport={{ once: true }}
             >
-              <div className="text-5xl md:text-6xl font-light mb-4">%</div>
+              <div className="text-5xl md:text-6xl font-light mb-4 text-[#7a9d54]">90%</div>
               <p className="text-[#2E2E2E]/60">want to reduce waste but lack the tools</p>
             </motion.div>
             </div>
@@ -151,28 +151,34 @@ export default function ProcessPage() {
               transition={{ duration: 0.8, delay: 0.2 }}
               viewport={{ once: true }}
             >
-              <h3 className="text-4xl md:text-5xl font-light lg:mt-20 text-nowrap lg:mb-20">Three levels of findings (stage 2 slide 5)</h3>
+              <h3 className="text-4xl md:text-5xl font-light lg:mt-20 text-nowrap lg:mb-12">Three levels of findings</h3>
 
-              <div className="flex flex-col lg:flex-row justify-between items-start gap-8 lg:gap-x-64">
+              <div className="flex flex-col lg:flex-row justify-between items-start gap-8 lg:gap-x-80">
                 <div className="flex-1 text-center lg:text-left lg:text-nowrap">
                   <div className="text-5xl md:text-6xl lg:text-3xl font-light mb-4">Human-Level <br /> findings</div>
-                  <p className="text-[#2E2E2E]/60">food waste is rarely intentional</p>
+                  <p className="text-[#2E2E2E]/60 text-wrap">Food waste is rarely intentional. 
+                  People forget what’s in their fridge or misjudge expiry dates.
+                  Users see sustainability as saving time and money, not just being eco-friendly.</p>
                 </div>
 
                 <div className="flex-1 text-center lg:text-left lg:text-nowrap">
                   <div className="text-5xl md:text-6xl lg:text-3xl font-light mb-4">System-Level <br /> findings</div>
-                  <p className="text-[#2E2E2E]/60">food waste is rarely intentional</p>
+                  <p className="text-[#2E2E2E]/60 text-wrap">Households cause 40–50% of food waste due 
+                   to poor planning, tracking, and visibility.
+                   The core issue is behavioural; not knowing what’s owned, needed, or expiring soon.</p>
                 </div>
 
                 <div className="flex-1 text-center lg:text-left lg:text-nowrap">
                   <div className="text-5xl md:text-6xl lg:text-3xl font-light mb-4">Tech-Level <br /> findings</div>
-                  <p className="text-[#2E2E2E]/60">food waste is rarely intentional</p>
+                  <p className="text-[#2E2E2E]/60 text-wrap">Existing apps stop at tracking or 
+                  recipes but fail to link planning → buying → using.
+                  Tools require heavy manual input and lack motivation or feedback loops.</p>
                 </div>
               </div>
 
               {/* transtion statement  */}
               <motion.div 
-                className="mt-28 mb-16"
+                className="mt-24 mb-16"
                 initial={{ opacity: 0, y: 50 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 transition={{ duration: 1, delay: 0.3 }}
@@ -553,6 +559,9 @@ function Header() {
           </Link>
           <Link href="/process" className="text-sm hover:text-[#7A9D54] transition-colors">
             Process
+          </Link>
+          <Link href="/members" className="text-sm hover:text-[#7A9D54] transition-colors">
+            The Team
           </Link>
         </div>
 
