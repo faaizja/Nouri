@@ -273,15 +273,43 @@ export default function ProcessPage() {
                 </div>
 
               </div>
+
+
+              {/* transtion statement  */}
+              <motion.div 
+                className="mt-28 mb-1"
+                initial={{ opacity: 0, y: 50 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                transition={{ duration: 1, delay: 0.3 }}
+                viewport={{ once: true }}
+              >
+                <div className="relative">
+                  <div className="absolute -left-4 top-1/2 transform -translate-y-1/2 w-2 h-24 bg-[#a8c686] rounded-full"></div>
+                  <h1 className="text-4xl md:text-5xl lg:text-[3.5rem] text-nowrap pl-8 leading-relaxed">
+                    These insights led us to <span className="italic font-light">three</span><br />
+                     <span className="font-bold text-[#a8c686] relative">
+                      connected features
+                      <motion.div 
+                        className="absolute -bottom-1 left-0 w-full h-1 bg-[#a8c686]"
+                        initial={{ scaleX: 0 }}
+                        whileInView={{ scaleX: 1 }}
+                        transition={{ duration: 0.8, delay: 0.8 }}
+                        viewport={{ once: true }}
+                      ></motion.div>
+                    </span>  that work together <br /> across the full food journey.
+                  </h1>
+                </div>
+              </motion.div> 
             </motion.div>
           </div>
-
 
         </div> 
 
       </section>
 
-      <section className="py-32 px-6 md:px-12">
+      {/* solution section */}
+      <section className="py-28 px-6 md:px-12 ">
+        
         <div className="max-w-5xl mx-auto grid md:grid-cols-2 gap-20">
           <motion.div
             initial={{ opacity: 0, y: 40 }}
@@ -357,9 +385,12 @@ export default function ProcessPage() {
               transition={{ duration: 0.8 }}
               viewport={{ once: true }}
             >
-              <h4 className="text-2xl font-light mb-4">Initial Concept</h4>
-              <p className="text-[#2E2E2E]/70 leading-relaxed">
-                we can talk about initial ideas here and what our approach was when we started designing the ui and screens. in the image box above could be the mid-fidelity wireframes wireframes
+              <h4 className="text-2xl font-medium mb-4">Initial Concept</h4>
+              <p className="text-[#2E2E2E]/70 leading-relaxed text-nowrap">
+                Our early sketches focused on a simple pantry list and one off recipe suggestions. <br />
+                 As we tested low and mid fidelity prototypes, we realized that users needed 
+                 clearer <br />guidance at each step of their routine. This pushed us to design a 
+                 more structured <br />system that connects shopping, storing, cooking, and logging waste.
               </p>
             </motion.div>
           </div>
@@ -382,9 +413,13 @@ export default function ProcessPage() {
               transition={{ duration: 0.8 }}
               viewport={{ once: true }}
             >
-              <h4 className="text-2xl font-light mb-4">Final Design</h4>
-              <p className="text-[#2E2E2E]/70 leading-relaxed">
-                over here we can talk about the final design and how it was implemented and what we learned from the process and the final wireframes in the image box above
+              <h4 className="text-2xl font-medium mb-4">Final Design</h4>
+              <p className="text-[#2E2E2E]/70 leading-relaxed text-nowrap">
+                The final interface brings those pieces together in a calm, 
+                minimal visual style. <br /> We refined layouts, typography, and 
+                button patterns to create a consistent <br />experience across all 
+                three features. We aimed to have every screen support <br />quick scanning, 
+                clear actions, and have a sense of progress towards wasting less food.
               </p>
             </motion.div>
           </div>
@@ -405,8 +440,10 @@ export default function ProcessPage() {
             <h2 className="text-sm uppercase tracking-wider text-[#2E2E2E]/60 mb-4">Testing & Results</h2>
             <h3 className="text-4xl md:text-5xl font-light mb-8">Validation Through Users</h3>
             <p className="text-lg text-[#2E2E2E]/70 leading-relaxed max-w-3xl">
-              We conducted 14 user testing sessions across 3 major iterations. we can talk more about some key insights we got
-              from users and how the proves it gets the job done.
+              We tested multiple iterations of Nouri with users who regularly cook at home. 
+              Participants walked through realistic scenarios, spoke aloud as they used the 
+              prototype, and reflected on what felt confusing or helpful. Their feedback shaped 
+              everything from button hierarchy to how we structured the cooking assistant and waste logging flows.
             </p>
           </motion.div>
 
@@ -448,7 +485,7 @@ export default function ProcessPage() {
       </section>
 
       {/* final prototype section */}
-      <section className="py-32 px-6 md:px-12 bg-[#7a9d54] text-white">
+      <section className="py-32 px-6 md:px-12 bg-black text-white">
         <div className="max-w-7xl mx-auto">
           <motion.div
             initial={{ opacity: 0, y: 40 }}
@@ -458,8 +495,12 @@ export default function ProcessPage() {
             className="mb-20 text-center"
           >
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-8">Final Prototype</h2>
-            <p className="text-lg text-white max-w-2xl mx-auto font-medium">
-              A complete solution that transforms how people manage their kitchen and reduce food waste
+            <p className="text-lg text-white max-w-2xl mx-auto font-medium text-nowrap">
+             Our current prototype reflects the best version 
+             of Nouri from this course. <br /> It shows how kitchen 
+             inventory, recipes, and impact tracking can work 
+             together <br />in one coherent experience, giving 
+             us a strong foundation for future development.
             </p>
           </motion.div>
 
@@ -468,15 +509,15 @@ export default function ProcessPage() {
             whileInView={{ opacity: 1, scale: 1 }}
             transition={{ duration: 1 }}
             viewport={{ once: true }}
-            className="relative aspect-video bg-white/5 rounded-3xl overflow-hidden border border-white/10"
+            className=" rounded-3xl"
           >
-            <div className="w-full h-full flex items-center justify-center p-12">
+            <div className="w-full h-full flex items-center justify-center">
               <div>
                 <iframe
                   style={{ border: "1px solid rgba(0, 0, 0, 0.1)" }}
-                  width={800}
-                  height={450}
-                  src="https://embed.figma.com/proto/xUfsQbFl391Vu4UaAwQ5bE/IAT-334--Project-3-Backup?page-id=2667%3A19954&node-id=2669-22800&viewport=312%2C-237%2C0.07&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2669%3A23005&show-proto-sidebar=1&embed-host=share"
+                  width={500}
+                  height={650}
+                  src="https://embed.figma.com/proto/xUfsQbFl391Vu4UaAwQ5bE/IAT-334--Project-3-Backup?page-id=2667%3A19954&node-id=2669-22800&viewport=312%2C-237%2C0.07&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2669%3A23005&show-proto-sidebar=0&embed-host=share" // Set show-proto-sidebar=0 and ensure scaling=scale-down
                   allowFullScreen
                 />
               </div>
