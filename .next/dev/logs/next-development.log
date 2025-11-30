@@ -1,93 +1,26 @@
-[00:00:00.931] Server  LOG      ✓ Ready in 620ms
-[00:00:04.243] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:04.462] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
-[00:00:04.590] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:04.590] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:04.590] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465408646}
-[00:00:51.561] Server  LOG      ✓ Compiled in 103ms
-[00:00:56.570] Server  LOG      ✓ Compiled in 62ms
-[00:00:59.114] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:00:59.114] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://localhost:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465463191}
-[00:01:05.609] Server  LOG      ✓ Compiled in 663ms
-[00:01:07.465] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465471545}
-[00:01:09.810] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://localhost:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465473890}
-[00:01:10.920] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465475002}
-[00:01:12.636] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465476718}
-[00:02:05.632] Server  LOG      ✓ Compiled in 123ms
-[00:02:07.717] Server  LOG      ✓ Compiled in 65ms
-[00:02:11.759] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465535840}
-[00:02:12.618] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://localhost:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465536698}
-[00:02:13.767] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465537848}
-[00:02:23.729] Server  LOG      ✓ Compiled in 179ms
-[00:02:27.976] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:29.100] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:02:29.100] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/members","route":"/members"}
-[00:02:29.100] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465552877}
-[00:02:29.773] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:30.110] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:02:30.110] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/members","route":"/members"}
-[00:02:30.110] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465554153}
-[00:02:33.687] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:02:33.688] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
-[00:02:33.688] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465557767}
-[00:02:34.535] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465558617}
-[00:02:35.858] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465559939}
-[00:02:36.950] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465561031}
-[00:02:50.929] Server  LOG      ✓ Compiled in 120ms
-[00:02:52.496] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465576575}
-[00:02:53.282] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://localhost:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465577361}
-[00:02:54.443] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465578522}
-[00:02:58.992] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465583072}
-[00:03:00.185] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://localhost:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465584266}
-[00:03:02.042] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465586124}
-[00:03:02.942] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://localhost:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465587023}
-[00:03:03.903] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465587986}
-[00:06:28.398] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./app/members/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:06:28.420] Server  LOG      ✓ Compiled in 482ms
-[00:06:30.157] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:30.817] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:06:30.818] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/members","route":"/members"}
-[00:06:30.818] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465794571}
-[00:06:36.831] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:06:36.831] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://localhost:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465800914}
-[00:06:38.795] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764465802877}
-[00:08:39.272] Server  LOG      ✓ Compiled in 519ms
-[00:10:11.091] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
-[00:10:11.091] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764466015170}
-[00:10:12.164] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764466016243}
-[00:12:32.506] Server  LOG      ✓ Compiled in 451ms
-[00:12:56.779] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764466180856}
-[00:12:57.435] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764466181512}
-[00:17:57.319] Server  LOG      ✓ Compiled in 562ms
-[04:09:51.540] Server  LOG      ✓ Compiled in 632ms
-[04:09:51.567] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./app/members/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[04:09:54.098] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[04:09:54.611] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[04:09:54.611] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/members","route":"/members"}
-[04:09:54.611] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764480398620}
-[04:10:06.901] Server  LOG      ✓ Compiled in 235ms
-[04:10:59.701] Server  LOG      ✓ Compiled in 63ms
-[04:11:08.747] Server  LOG      ✓ Compiled in 47ms
-[04:11:14.233] Server  LOG      ✓ Compiled in 75ms
-[04:12:16.765] Server  LOG      ✓ Compiled in 69ms
-[04:12:23.623] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[04:12:25.472] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://localhost:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764480549478}
-[04:12:26.527] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764480550535}
-[04:12:27.920] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://localhost:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764480551925}
-[04:12:29.343] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764480553352}
-[04:12:32.196] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
-[04:12:32.196] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764480556203}
-[04:12:33.357] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://localhost:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764480557366}
-[04:12:35.333] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764480559341}
-[04:13:05.516] Server  LOG      ✓ Compiled in 65ms
-[04:13:18.792] Server  LOG      ✓ Compiled in 63ms
-[04:13:34.211] Server  LOG      ✓ Compiled in 45ms
-[04:13:37.341] Server  LOG      ✓ Compiled in 57ms
-[04:13:46.723] Server  LOG      ✓ Compiled in 55ms
-[04:14:55.533] Server  LOG      ✓ Compiled in 54ms
-[04:15:04.485] Server  LOG      ✓ Compiled in 206ms
-[04:15:10.644] Server  LOG      ✓ Compiled in 141ms
-[04:15:14.250] Server  LOG      ✓ Compiled in 96ms
-[04:18:45.282] Server  LOG      ✓ Compiled in 272ms
-[04:18:51.940] Server  LOG      ✓ Compiled in 69ms
-[04:21:28.841] Server  LOG      ✓ Compiled in 208ms
+[00:00:01.100] Server  LOG      ✓ Ready in 816ms
+[00:00:28.432] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:28.677] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[00:00:28.770] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:28.771] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:28.771] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764483616807}
+[00:02:47.518] Server  LOG      ✓ Compiled in 116ms
+[00:08:26.799] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:08:48.476] Server  LOG      ✓ Compiled in 324ms
+[00:08:50.254] Server  LOG      ✓ Compiled in 60ms
+[00:15:19.382] Server  LOG      ✓ Compiled in 598ms
+[00:22:09.275] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:09.643] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[00:22:09.790] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:22:09.790] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:22:09.790] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764484917871}
+[00:22:39.623] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:39.793] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[00:22:39.793] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:22:39.793] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:22:39.793] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764484947827}
+[00:23:33.223] Server  LOG      ✓ Compiled in 442ms
+[00:23:36.530] Server  LOG      ✓ Compiled in 152ms
+[00:23:57.954] Server  LOG      ✓ Compiled in 57ms
+[00:24:04.015] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:24:04.015] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://localhost:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764485032095}

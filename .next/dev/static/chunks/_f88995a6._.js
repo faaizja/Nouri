@@ -275,34 +275,15 @@ function LandingPage() {
                                 once: true
                             },
                             className: "space-y-6 text-[#2E2E2E]/70 text-lg leading-relaxed",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "",
-                                    children: "Many home cooks want to waste less food, but expiry dates, busy schedules, and forgotten leftovers make it hard to track what’s in the kitchen. Nouri connects your pantry, recipes, and waste habits into one place so you can cook confidently with what you already have."
-                                }, void 0, false, {
-                                    fileName: "[project]/app/page.tsx",
-                                    lineNumber: 70,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                    href: "/process",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
-                                        variant: "outline",
-                                        size: "lg",
-                                        className: "mt-6 rounded-full border-[#2E2E2E] text-[#2E2E2E] hover:bg-[#7a9d54] hover:text-white transition-all duration-300 ease-in-out bg-transparent",
-                                        children: "See process"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/page.tsx",
-                                        lineNumber: 74,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/app/page.tsx",
-                                    lineNumber: 73,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "",
+                                children: "Many home cooks want to waste less food, but expiry dates, busy schedules, and forgotten leftovers make it hard to track what’s in the kitchen. Nouri connects your pantry, recipes, and waste habits into one place so you can cook confidently with what you already have."
+                            }, void 0, false, {
+                                fileName: "[project]/app/page.tsx",
+                                lineNumber: 70,
+                                columnNumber: 13
+                            }, this)
+                        }, void 0, false, {
                             fileName: "[project]/app/page.tsx",
                             lineNumber: 63,
                             columnNumber: 11
@@ -343,7 +324,7 @@ function LandingPage() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "",
-                                    children: "In Canada, households throw away $XX of edible food per year. Nouri focuses on the everyday moments where food gets lost: when you stock the kitchen, when you’re choosing what to cook, and when you decide to throw something away."
+                                    children: "In Canada, households throw away $1,766 of edible food per year. Nouri focuses on the everyday moments where food gets lost: when you stock the kitchen, when you’re choosing what to cook, and when you decide to throw something away."
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
                                     lineNumber: 99,
@@ -642,7 +623,7 @@ function ProjectShowcase() {
                             className: "relative",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                 className: "lg:ml-52",
-                                src: "/RR.png",
+                                src: "/NN.png",
                                 height: 350,
                                 width: 350,
                                 alt: "mockup of kitchen intelligence hub"
@@ -830,7 +811,7 @@ function ProjectShowcase() {
                             className: "relative",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                 className: "lg:ml-52",
-                                src: "/RR.png",
+                                src: "/NN.png",
                                 height: 350,
                                 width: 350,
                                 alt: "mockup of nouri nexus"
@@ -869,17 +850,17 @@ function Footer() {
                 children: "© Nouri 2025 | All Rights Reserved"
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
-                lineNumber: 398,
+                lineNumber: 330,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/app/page.tsx",
-            lineNumber: 397,
+            lineNumber: 329,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/page.tsx",
-        lineNumber: 396,
+        lineNumber: 328,
         columnNumber: 5
     }, this);
 }

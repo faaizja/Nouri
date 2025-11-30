@@ -70,7 +70,7 @@ export default function LandingPage() {
             <p className="">
               Many home cooks want to waste less food, but expiry dates, busy schedules, and forgotten leftovers make it hard to track what’s in the kitchen. Nouri connects your pantry, recipes, and waste habits into one place so you can cook confidently with what you already have.
             </p>
-            <Link href="/process">
+            {/* <Link href="/process">
               <Button
                 variant="outline"
                 size="lg"
@@ -78,7 +78,7 @@ export default function LandingPage() {
               >
                 See process
               </Button>
-            </Link>
+            </Link> */}
           </motion.div>
         </div>
       </section>
@@ -97,7 +97,7 @@ export default function LandingPage() {
             className="space-y-6 text-[#2E2E2E]/70 text-lg leading-relaxed"
           >
             <p className="">
-              In Canada, households throw away $XX of edible food per year. 
+              In Canada, households throw away $1,766 of edible food per year. 
               Nouri focuses on the everyday moments where food gets lost: when you stock the kitchen, 
               when you’re choosing what to cook, and when you decide to throw something away.
             </p>
@@ -251,7 +251,7 @@ function ProjectShowcase() {
             viewport={{ once: true }}
             className="relative"
           >
-            <img className="lg:ml-52" src="/RR.png" height={350} width={350} alt="mockup of kitchen intelligence hub" />
+            <img className="lg:ml-52" src="/NN.png" height={350} width={350} alt="mockup of kitchen intelligence hub" />
           </motion.div>
         </div>
       </section>
@@ -312,78 +312,10 @@ function ProjectShowcase() {
             viewport={{ once: true }}
             className="relative"
           >
-            <img className="lg:ml-52" src="/RR.png" height={350} width={350} alt="mockup of nouri nexus" />
+            <img className="lg:ml-52" src="/NN.png" height={350} width={350} alt="mockup of nouri nexus" />
           </motion.div>
         </div>
       </section>
-
-
-
-
-      {/* <section className="py-32 px-6 md:px-12 bg-[#F9F9F5]">
-        <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-20 items-center">
-          <motion.div
-            initial={{ opacity: 0, scale: 0.95 }}
-            whileInView={{ opacity: 1, scale: 1 }}
-            transition={{ duration: 0.8 }}
-            viewport={{ once: true }}
-            className="relative order-2 md:order-1"
-          >
-            <div className="relative aspect-[4/3] bg-white rounded-3xl overflow-hidden shadow-2xl">
-              <img
-                src="/images/screenshot-202025-11-25-20at-209.png"
-                alt="Nouri mobile interface"
-                className="w-full h-full object-contain"
-              />
-            </div>
-          </motion.div>
-
-          <motion.div
-            initial={{ opacity: 0, y: 40 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8 }}
-            viewport={{ once: true }}
-            className="order-1 md:order-2"
-          >
-            <h3 className="text-4xl md:text-5xl font-light mb-6 text-balance">Recipe Rescue</h3>
-            <p className="text-lg text-[#2E2E2E]/70 leading-relaxed">
-              AI-powered meal suggestions based on what you have. Never wonder "what to cook" again. Get personalized
-              recipes that match your dietary preferences and use ingredients before they expire.
-            </p>
-          </motion.div>
-        </div>
-      </section> */}
-
-      {/* <section className="py-32 px-6 md:px-12">
-        <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-20 items-center">
-          <motion.div
-            initial={{ opacity: 0, y: 40 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8 }}
-            viewport={{ once: true }}
-          >
-            <h3 className="text-4xl md:text-5xl font-light mb-6 text-balance">Nouri Nexus</h3>
-            <p className="text-lg text-[#2E2E2E]/70 leading-relaxed">
-              Visualize your sustainability impact with comprehensive dashboards. Track food waste reduction, cost
-              savings, and environmental benefits. Celebrate your wins and stay motivated.
-            </p>
-          </motion.div>
-
-          <motion.div
-            initial={{ opacity: 0, scale: 0.95 }}
-            whileInView={{ opacity: 1, scale: 1 }}
-            transition={{ duration: 0.8 }}
-            viewport={{ once: true }}
-            className="relative"
-          >
-            <div className="relative aspect-video bg-white rounded-3xl overflow-hidden shadow-2xl p-12">
-              <div className="w-full h-full bg-gradient-to-br from-[#A8C686] to-[#7A9D54] rounded-2xl flex items-center justify-center">
-                <p className="text-center text-white/50">Impact Dashboard Mockup</p>
-              </div>
-            </div>
-          </motion.div>
-        </div>
-      </section> */}
 
     </>
   )
