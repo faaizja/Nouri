@@ -118,7 +118,7 @@ export default function ProcessPage() {
               transition={{ duration: 0.8 }}
               viewport={{ once: true }}
             >
-              <div className="text-5xl md:text-6xl font-light mb-4 text-[#7a9d54]">93%</div>
+              <div className="text-5xl md:text-6xl font-semibold mb-4 text-[#7a9d54]">93%</div>
               <p className="text-[#2E2E2E]/60">of users forget about food in their fridge until it expires</p>
             </motion.div>
 
@@ -128,7 +128,7 @@ export default function ProcessPage() {
               transition={{ duration: 0.8, delay: 0.1 }}
               viewport={{ once: true }}
             >
-              <div className="text-5xl md:text-6xl font-light mb-4 text-[#7a9d54]">40%</div>
+              <div className="text-5xl md:text-6xl font-semibold mb-4 text-[#7a9d54]">40%</div>
               <p className="text-[#2E2E2E]/60">of purchased food ends up in the trash</p>
             </motion.div>
 
@@ -138,7 +138,7 @@ export default function ProcessPage() {
               transition={{ duration: 0.8, delay: 0.2 }}
               viewport={{ once: true }}
             >
-              <div className="text-5xl md:text-6xl font-light mb-4 text-[#7a9d54]">90%</div>
+              <div className="text-5xl md:text-6xl font-semibold mb-4 text-[#7a9d54]">90%</div>
               <p className="text-[#2E2E2E]/60">want to reduce waste but lack the tools</p>
             </motion.div>
             </div>
@@ -153,23 +153,23 @@ export default function ProcessPage() {
             >
               <h3 className="text-4xl md:text-5xl font-light lg:mt-20 text-nowrap lg:mb-12">Three levels of findings</h3>
 
-              <div className="flex flex-col lg:flex-row justify-between items-start gap-8 lg:gap-x-80">
-                <div className="flex-1 text-center lg:text-left lg:text-nowrap">
-                  <div className="text-5xl md:text-6xl lg:text-3xl font-light mb-4">Human-Level <br /> findings</div>
+              <div className="flex flex-col lg:flex-row justify-between items-start gap-8 lg:gap-x-52">
+                <div className="flex-1 text-center lg:text-left lg:text-nowrap bg-[#7a9d54] p-10 rounded-4xl">
+                  <div className="text-5xl md:text-6xl lg:text-3xl font-medium italic text-[#f9f9f5] bg-[#7a9d54] mb-4">Human-Level <br /> findings</div>
                   <p className="text-[#2E2E2E]/60 text-wrap">Food waste is rarely intentional. 
                   People forget what’s in their fridge or misjudge expiry dates.
                   Users see sustainability as saving time and money, not just being eco-friendly.</p>
                 </div>
 
-                <div className="flex-1 text-center lg:text-left lg:text-nowrap">
-                  <div className="text-5xl md:text-6xl lg:text-3xl font-light mb-4">System-Level <br /> findings</div>
+                <div className="flex-1 text-center lg:text-left lg:text-nowrap bg-[#7a9d54] p-10 rounded-4xl">
+                  <div className="text-5xl md:text-6xl lg:text-3xl font-medium italic text-[#f9f9f5] bg-[#7a9d54] mb-4">System-Level <br /> findings</div>
                   <p className="text-[#2E2E2E]/60 text-wrap">Households cause 40–50% of food waste due 
                    to poor planning, tracking, and visibility.
                    The core issue is behavioural; not knowing what’s owned, needed, or expiring soon.</p>
                 </div>
 
-                <div className="flex-1 text-center lg:text-left lg:text-nowrap">
-                  <div className="text-5xl md:text-6xl lg:text-3xl font-light mb-4">Tech-Level <br /> findings</div>
+                <div className="flex-1 text-center lg:text-left lg:text-nowrap bg-[#7a9d54] p-10 rounded-4xl">
+                  <div className="text-5xl md:text-6xl lg:text-3xl font-medium italic text-[#f9f9f5] bg-[#7a9d54] mb-4">Tech-Level <br /> findings</div>
                   <p className="text-[#2E2E2E]/60 text-wrap">Existing apps stop at tracking or 
                   recipes but fail to link planning → buying → using.
                   Tools require heavy manual input and lack motivation or feedback loops.</p>
@@ -337,14 +337,14 @@ export default function ProcessPage() {
             <div>
               <h4 className="text-xl font-medium mb-3">Kitchen Intelligence Hub</h4>
               <p className="text-[#2E2E2E]/70 leading-relaxed">
-                Automated tracking with smart expiration alerts to prevent food waste before it happens.
+                Smart kitchen hub that tracks your food freshness and prevents food waste before it happens.
               </p>
             </div>
 
             <div>
               <h4 className="text-xl font-medium mb-3">Recipe Rescue</h4>
               <p className="text-[#2E2E2E]/70 leading-relaxed">
-                AI-powered meal suggestions using available ingredients and dietary preferences.
+                Meal suggestions using available ingredients in your pantry needing to be rescued.
               </p>
             </div>
 

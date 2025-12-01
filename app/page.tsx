@@ -20,15 +20,15 @@ export default function LandingPage() {
 
       <Header />
 
-      <section className="min-h-screen flex items-center justify-center px-6 md:px-12 pt-20">
+      <section className="min-h-screen flex items-center justify-center px-6 md:px-12 pt-20 pb-10">
         <div className="max-w-7xl w-full">
           <motion.div
             initial={{ opacity: 0, y: 40 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, ease: [0.22, 1, 0.36, 1] }}
           >
-            <h1 className="text-6xl md:text-7xl lg:text-8xl xl:text-9xl font-light leading-[0.95] mb-8 text-balance">
-              <span className="font-inter font-bold hover:text-[#a8c686]/75 duration-300 ease-in-out">Nouri</span> is a smart kitchen companion that helps reduce <span className="font-inter font-bold">food waste.</span>
+            <h1 className="text-6xl md:text-7xl lg:text-8xl xl:text-9xl font-light leading-[0.95] mb-2 text-balance">
+              <span className="font-inter font-bold hover:text-[#a8c686]/75 duration-300 ease-in-out">Nouri</span> is a smart kitchen app companion that helps reduce <span className="font-inter font-bold">food waste.</span>
             </h1>
           </motion.div>
 
@@ -252,6 +252,7 @@ function ProjectShowcase() {
             className="relative"
           >
             <img className="lg:ml-52" src="/NN.png" height={350} width={350} alt="mockup of kitchen intelligence hub" />
+            <p className="flex justify-center items-center pl-20 text-[#7a9d54] font-semibold">Nouri highlights expiring items and suggests how to use them first.</p>
           </motion.div>
         </div>
       </section>
@@ -270,6 +271,7 @@ function ProjectShowcase() {
             className="relative"
           >
               <img className="lg:ml-20" src="/RR.png" height={350} width={350} alt="mockup of recipe rescue" />
+              <p className="flex justify-center items-center pl-20 text-[#7a9d54] font-semibold">Nouri highlights expiring items and suggests how to use them first.</p>
           </motion.div>
 
           <motion.div
@@ -313,6 +315,7 @@ function ProjectShowcase() {
             className="relative"
           >
             <img className="lg:ml-52" src="/NN.png" height={350} width={350} alt="mockup of nouri nexus" />
+            <p className="flex justify-center items-center pl-20 text-[#7a9d54] font-semibold">Nouri highlights expiring items and suggests how to use them first.</p>
           </motion.div>
         </div>
       </section>

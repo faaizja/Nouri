@@ -379,7 +379,7 @@ function ProcessPage() {
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "text-5xl md:text-6xl font-light mb-4 text-[#7a9d54]",
+                                            className: "text-5xl md:text-6xl font-semibold mb-4 text-[#7a9d54]",
                                             children: "93%"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
@@ -418,7 +418,7 @@ function ProcessPage() {
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "text-5xl md:text-6xl font-light mb-4 text-[#7a9d54]",
+                                            className: "text-5xl md:text-6xl font-semibold mb-4 text-[#7a9d54]",
                                             children: "40%"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
@@ -457,7 +457,7 @@ function ProcessPage() {
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "text-5xl md:text-6xl font-light mb-4 text-[#7a9d54]",
+                                            className: "text-5xl md:text-6xl font-semibold mb-4 text-[#7a9d54]",
                                             children: "90%"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
@@ -512,19 +512,19 @@ function ProcessPage() {
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "flex flex-col lg:flex-row justify-between items-start gap-8 lg:gap-x-80",
+                                        className: "flex flex-col lg:flex-row justify-between items-start gap-8 lg:gap-x-52",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex-1 text-center lg:text-left lg:text-nowrap",
+                                                className: "flex-1 text-center lg:text-left lg:text-nowrap bg-[#7a9d54] p-10 rounded-4xl",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "text-5xl md:text-6xl lg:text-3xl font-light mb-4",
+                                                        className: "text-5xl md:text-6xl lg:text-3xl font-medium italic text-[#f9f9f5] bg-[#7a9d54] mb-4",
                                                         children: [
                                                             "Human-Level ",
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                 fileName: "[project]/app/process/page.tsx",
                                                                 lineNumber: 158,
-                                                                columnNumber: 97
+                                                                columnNumber: 133
                                                             }, this),
                                                             " findings"
                                                         ]
@@ -548,16 +548,16 @@ function ProcessPage() {
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex-1 text-center lg:text-left lg:text-nowrap",
+                                                className: "flex-1 text-center lg:text-left lg:text-nowrap bg-[#7a9d54] p-10 rounded-4xl",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "text-5xl md:text-6xl lg:text-3xl font-light mb-4",
+                                                        className: "text-5xl md:text-6xl lg:text-3xl font-medium italic text-[#f9f9f5] bg-[#7a9d54] mb-4",
                                                         children: [
                                                             "System-Level ",
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                 fileName: "[project]/app/process/page.tsx",
                                                                 lineNumber: 165,
-                                                                columnNumber: 98
+                                                                columnNumber: 134
                                                             }, this),
                                                             " findings"
                                                         ]
@@ -581,16 +581,16 @@ function ProcessPage() {
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex-1 text-center lg:text-left lg:text-nowrap",
+                                                className: "flex-1 text-center lg:text-left lg:text-nowrap bg-[#7a9d54] p-10 rounded-4xl",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "text-5xl md:text-6xl lg:text-3xl font-light mb-4",
+                                                        className: "text-5xl md:text-6xl lg:text-3xl font-medium italic text-[#f9f9f5] bg-[#7a9d54] mb-4",
                                                         children: [
                                                             "Tech-Level ",
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                                 fileName: "[project]/app/process/page.tsx",
                                                                 lineNumber: 172,
-                                                                columnNumber: 96
+                                                                columnNumber: 132
                                                             }, this),
                                                             " findings"
                                                         ]
@@ -1244,7 +1244,7 @@ function ProcessPage() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-[#2E2E2E]/70 leading-relaxed",
-                                            children: "Automated tracking with smart expiration alerts to prevent food waste before it happens."
+                                            children: "Smart kitchen hub that tracks your food freshness and prevents food waste before it happens."
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
                                             lineNumber: 339,
@@ -1268,7 +1268,7 @@ function ProcessPage() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-[#2E2E2E]/70 leading-relaxed",
-                                            children: "AI-powered meal suggestions using available ingredients and dietary preferences."
+                                            children: "Meal suggestions using available ingredients in your pantry needing to be rescued."
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
                                             lineNumber: 346,

@@ -9,19 +9,19 @@ export default function MeetTheMembersPage() {
     {
       name: "Erika Miranda",
       photoSrc: "/erika-photo.jpg",
-      bio: "send ur bio on discord",
+      bio: "Erika led the development of Nouri’s brand identity and visual system,shaping the overall look and feel of the product. She also contributed to refining the wireflows and UX logic to help ensure a thoughtful and intuitive user experience.",
     },
     {
       name: "Faaiz Abdullah",
       photoSrc: "/faaiz-photo.jpg",
-      bio: "Faaiz helped out in the collection of product research and user testing. He also worked on the feature wireflows to ensure a (hopefully) smooth user experience.",
+      bio: "Faaiz contributed core research by conducting user interviews and analyzing data to identify key pain points. He then used these findings to architect the app's feature wireflows to ensure a logical and user experience.",
     },
   ];
 
   return (
     <div className="bg-white text-[#2E2E2E]">
 
-      <Header /> {/* Reuse the existing Header component */}
+      <Header /> 
 
       {/* Hero Section - Matching Landing Page Style */}
       <section className="min-h-screen flex items-center justify-center px-6 md:px-12 pt-20">
