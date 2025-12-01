@@ -8,12 +8,12 @@ export default function MeetTheMembersPage() {
   const teamMembers = [
     {
       name: "Erika Miranda",
-      photoSrc: "/erika-photo.jpg",
+      photoSrc: "/erika.jpeg",
       bio: "Erika led the development of Nouri’s brand identity and visual system,shaping the overall look and feel of the product. She also contributed to refining the wireflows and UX logic to help ensure a thoughtful and intuitive user experience.",
     },
     {
       name: "Faaiz Abdullah",
-      photoSrc: "/faaiz-photo.jpg",
+      photoSrc: "/faaiz.jpg",
       bio: "Faaiz contributed core research by conducting user interviews and analyzing data to identify key pain points. He then used these findings to architect the app's feature wireflows to ensure a logical and user experience.",
     },
   ];
