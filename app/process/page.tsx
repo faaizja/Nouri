@@ -565,9 +565,9 @@ export default function ProcessPage() {
               <div>
                 <iframe
                   style={{ border: "1px solid rgba(0, 0, 0, 0.1)" }}
-                  width={500}
-                  height={650}
-                  src="https://embed.figma.com/proto/xUfsQbFl391Vu4UaAwQ5bE/IAT-334--Project-3-Backup?page-id=2667%3A19954&node-id=2669-22800&viewport=312%2C-237%2C0.07&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2669%3A23005&show-proto-sidebar=0&embed-host=share" // Set show-proto-sidebar=0 and ensure scaling=scale-down
+                  width={800}
+                  height={450}
+                  src="https://embed.figma.com/proto/xUfsQbFl391Vu4UaAwQ5bE/IAT-334--Project-3-Backup?page-id=2863%3A375&node-id=2863-9885&viewport=3544%2C47%2C0.27&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2863%3A10064&show-proto-sidebar=1&embed-host=share"
                   allowFullScreen
                 />
               </div>

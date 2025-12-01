@@ -1,15 +1,24 @@
-[00:00:01.635] Server  LOG      ✓ Ready in 1346ms
-[00:00:05.000] Server  WARN     ⚠ Cross origin request detected from 192.168.0.40 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+[00:00:01.003] Server  LOG      ✓ Ready in 720ms
+[00:00:11.632] Server  WARN     ⚠ Cross origin request detected from 172.16.109.90 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
 Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
-[00:00:05.619] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:05.849] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
-[00:00:05.952] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:05.952] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:05.952] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.40:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.0.40:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764579809352}
-[00:00:08.323] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:00:08.323] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.40:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://192.168.0.40:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764579811722}
-[00:00:40.002] Server  LOG      ✓ Compiled in 114ms
-[00:00:42.834] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:43.180] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:43.180] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/members","route":"/members"}
-[00:00:43.180] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.40:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://192.168.0.40:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764579846580}
+[00:00:12.294] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:12.468] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[00:00:12.831] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:12.831] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:12.831] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.109.90:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.16.109.90:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764626336825}
+[00:00:42.227] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:00:42.227] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.109.90:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://172.16.109.90:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764626366471}
+[00:02:31.056] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:31.680] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:02:31.680] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
+[00:02:31.681] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.109.90:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://172.16.109.90:3000/process","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764626475550}
+[00:02:57.094] Server  LOG      ✓ Compiled in 689ms
+[00:02:58.012] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? allowfullscreen allowFullScreen
+[00:02:58.012] Browser ERROR   uncaughtError: Error: The `style` prop expects a mapping from style properties to values, not a string. For example, style={{marginRight: spacing + 'em'}} when using JSX.
+[00:03:19.488] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:03:19.498] Server  LOG      ✓ Compiled in 91ms
+[00:03:20.254] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.109.90:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://172.16.109.90:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764626523888}
+[00:03:21.393] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:22.035] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:03:22.037] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
+[00:03:22.037] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.16.109.90:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://172.16.109.90:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764626526001}
