@@ -1,78 +1,69 @@
-[00:00:00.986] Server  LOG      ✓ Ready in 722ms
-[00:00:08.382] Server  WARN     ⚠ Cross origin request detected from 192.168.0.48 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+[00:00:01.266] Server  LOG      ✓ Ready in 1014ms
+[00:00:07.717] Server  WARN     ⚠ Cross origin request detected from 192.168.0.40 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
 Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
-[00:00:09.225] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:10.247] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:10.247] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:10.247] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.48:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.0.48:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764542136161}
-[00:00:11.907] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
-[00:01:00.771] Server  LOG      ✓ Compiled in 229ms
-[00:01:25.312] Server  LOG      ✓ Compiled in 84ms
-[00:01:28.328] Server  LOG      ✓ Compiled in 82ms
-[00:01:43.367] Server  LOG      ✓ Compiled in 59ms
-[00:01:45.922] Server  LOG      ✓ Compiled in 55ms
-[00:02:19.025] Server  LOG      ✓ Compiled in 194ms
-[00:02:25.274] Server  LOG      ✓ Compiled in 53ms
-[00:02:27.303] Server  LOG      ✓ Compiled in 65ms
-[00:03:20.313] Server  LOG      ✓ Compiled in 78ms
-[00:03:29.770] Server  LOG      ✓ Compiled in 51ms
-[00:03:30.738] Server  LOG      ✓ Compiled in 28ms
-[00:03:42.747] Server  LOG      ✓ Compiled in 59ms
-[00:03:50.462] Server  LOG      ✓ Compiled in 64ms
-[00:07:01.311] Server  LOG      ✓ Compiled in 103ms
-[00:07:42.537] Server  LOG      ✓ Compiled in 49ms
-[00:07:51.078] Server  LOG      ✓ Compiled in 52ms
-[00:08:07.194] Server  LOG      ✓ Compiled in 169ms
-[00:08:14.129] Server  LOG      ✓ Compiled in 108ms
-[00:08:31.639] Server  LOG      ✓ Compiled in 1127ms
-[00:08:37.267] Server  LOG      ✓ Compiled in 113ms
-[00:08:52.283] Server  LOG      ✓ Compiled in 323ms
-[00:09:02.249] Server  LOG      ✓ Compiled in 79ms
-[00:09:09.573] Server  LOG      ✓ Compiled in 79ms
-[00:09:14.247] Server  LOG      ✓ Compiled in 127ms
-[00:09:17.968] Server  LOG      ✓ Compiled in 50ms
-[00:09:27.295] Server  LOG      ✓ Compiled in 85ms
-[00:09:50.949] Server  LOG      ✓ Compiled in 62ms
-[00:09:56.236] Server  LOG      ✓ Compiled in 94ms
-[00:11:43.072] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[00:11:43.072] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.48:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.48:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764542829042}
-[00:11:50.253] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:11:50.862] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:11:50.862] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
-[00:11:50.862] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.48:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.48:3000/process","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764542836433}
-[00:11:52.069] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:11:52.261] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:11:52.261] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
-[00:11:52.261] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.48:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.48:3000/process","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764542838216}
-[00:11:53.254] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:11:53.457] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:11:53.457] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
-[00:11:53.457] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.48:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.48:3000/process","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764542839393}
-[00:11:54.506] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:11:54.725] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:11:54.736] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
-[00:11:54.736] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.48:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.48:3000/process","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764542840654}
-[00:12:11.467] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:12:11.674] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:12:11.674] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
-[00:12:11.674] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.48:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.48:3000/process","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764542857597}
-[00:12:40.657] Server  LOG      ✓ Compiled in 753ms
-[00:12:50.718] Server  LOG      ✓ Compiled in 104ms
-[00:16:21.399] Server  LOG      ✓ Compiled in 1031ms
-[00:16:22.502] Browser ERROR   ./app/process/page.tsx:239:26
+[00:00:08.389] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.541] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[00:00:09.077] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:09.077] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:09.077] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.40:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.0.40:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764571126249}
+[00:01:59.802] Server  LOG      ✓ Compiled in 445ms
+[00:02:25.197] Server  LOG      ✓ Compiled in 719ms
+[00:02:33.174] Server  LOG      ✓ Compiled in 75ms
+[00:02:36.091] Server  LOG      ✓ Compiled in 68ms
+[00:02:43.641] Server  LOG      ✓ Compiled in 106ms
+[00:02:52.404] Server  LOG      ✓ Compiled in 121ms
+[00:02:58.158] Server  LOG      ✓ Compiled in 105ms
+[00:03:03.755] Server  LOG      ✓ Compiled in 103ms
+[00:03:14.213] Server  LOG      ✓ Compiled in 174ms
+[00:03:16.591] Server  LOG      ✓ Compiled in 83ms
+[00:03:28.887] Server  LOG      ✓ Compiled in 59ms
+[00:03:40.027] Server  LOG      ✓ Compiled in 54ms
+[00:03:40.630] Server  LOG      ✓ Compiled in 34ms
+[00:03:46.284] Server  LOG      ✓ Compiled in 81ms
+[00:03:52.678] Server  LOG      ✓ Compiled in 62ms
+[00:04:04.238] Server  LOG      ✓ Compiled in 59ms
+[00:04:11.019] Server  LOG      ✓ Compiled in 44ms
+[00:04:17.605] Server  LOG      ✓ Compiled in 107ms
+[00:04:21.193] Server  LOG      ✓ Compiled in 95ms
+[00:04:23.684] Server  LOG      ✓ Compiled in 104ms
+[00:04:28.313] Server  LOG      ✓ Compiled in 87ms
+[00:04:35.448] Server  LOG      ✓ Compiled in 52ms
+[00:04:44.314] Server  LOG      ✓ Compiled in 50ms
+[00:04:50.472] Server  LOG      ✓ Compiled in 92ms
+[00:04:53.534] Server  LOG      ✓ Compiled in 70ms
+[00:04:58.357] Server  LOG      ✓ Compiled in 126ms
+[00:05:04.939] Server  LOG      ✓ Compiled in 65ms
+[00:05:10.709] Server  LOG      ✓ Compiled in 66ms
+[00:05:15.813] Server  LOG      ✓ Compiled in 107ms
+[00:05:21.526] Server  LOG      ✓ Compiled in 79ms
+[00:05:26.954] Server  LOG      ✓ Compiled in 59ms
+[00:05:56.506] Server  LOG      ✓ Compiled in 47ms
+[00:06:34.435] Server  LOG      ✓ Compiled in 58ms
+[00:06:42.461] Server  LOG      ✓ Compiled in 58ms
+[00:06:48.872] Server  LOG      ✓ Compiled in 63ms
+[00:07:14.516] Server  LOG      ✓ Compiled in 52ms
+[00:07:23.797] Server  LOG      ✓ Compiled in 95ms
+[00:07:29.025] Server  LOG      ✓ Compiled in 85ms
+[00:07:54.487] Server  LOG      ✓ Compiled in 55ms
+[00:08:57.849] Server  LOG      ✓ Compiled in 56ms
+[00:09:17.948] Server  LOG      ✓ Compiled in 62ms
+[00:09:23.608] Server  LOG      ✓ Compiled in 103ms
+[00:09:26.184] Server  LOG      ✓ Compiled in 81ms
+[00:09:36.388] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:09:36.389] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.40:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.40:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764571693556}
+[00:10:41.262] Server  LOG      ✓ Compiled in 799ms
+[00:11:02.828] Server  LOG      ✓ Compiled in 147ms
+[00:11:03.110] Browser ERROR   ./app/process/page.tsx:54:12
 Parsing ecmascript source code failed
-  237 |               </motion.div> 
-  238 |
-> 239 |             </motion.div>
-      |                          ^
-> 240 |           </div>
-      | ^^^^^^^^^^^
-  241 |           
-  242 |
-  243 |           {/* our target audience */}
+  52 |             <span className="italic font-semibold text-[#7a9d54]"> why is it still so hard to keep track of what is in your kitchen? </span>
+  53 |              This page walks through how we researched, designed, and refined Nouri into a tool that helps home cooks waste less food and feel more confident about what they already have.</h1>
+> 54 |  shadow-xl">
+     |            ^
+  55 |             <img
+  56 |               src="/nouri-bg.png"
+  57 |               alt="Next-level mockup"
 
-Expected '</', got 'jsx text (
-          )'
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
 
 Import traces:
   Client Component Browser:
@@ -82,22 +73,80 @@ Import traces:
   Client Component SSR:
     ./app/process/page.tsx [Client Component SSR]
     ./app/process/page.tsx [Server Component]
-[00:16:33.070] Server  LOG      ✓ Compiled in 257ms
-[00:17:39.581] Server  LOG      ✓ Compiled in 149ms
-[00:17:40.242] Browser ERROR   ./app/process/page.tsx:236:26
+[00:11:11.678] Server  LOG      ✓ Compiled in 68ms
+[00:11:15.499] Server  LOG      ✓ Compiled in 55ms
+[00:11:18.950] Server  LOG      ✓ Compiled in 53ms
+[00:11:36.357] Server  LOG      ✓ Compiled in 60ms
+[00:11:46.611] Server  LOG      ✓ Compiled in 48ms
+[00:11:55.750] Server  LOG      ✓ Compiled in 47ms
+[00:12:03.099] Server  LOG      ✓ Compiled in 55ms
+[00:12:08.631] Server  LOG      ✓ Compiled in 51ms
+[00:12:17.048] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:17.652] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:12:17.652] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/process","route":"/process"}
+[00:12:17.652] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.40:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.40:3000/process","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764571854430}
+[00:18:00.047] Server  LOG      ✓ Compiled in 777ms
+[00:18:03.881] Server  LOG      ✓ Compiled in 94ms
+[00:18:21.796] Server  LOG      ✓ Compiled in 68ms
+[00:18:36.642] Server  LOG      ✓ Compiled in 65ms
+[00:18:41.604] Server  LOG      ✓ Compiled in 75ms
+[00:18:47.531] Server  LOG      ✓ Compiled in 58ms
+[00:18:55.750] Server  LOG      ✓ Compiled in 81ms
+[00:19:00.272] Server  LOG      ✓ Compiled in 53ms
+[00:19:07.174] Server  LOG      ✓ Compiled in 64ms
+[00:19:10.806] Server  LOG      ✓ Compiled in 54ms
+[00:19:19.876] Server  LOG      ✓ Compiled in 57ms
+[00:19:25.888] Server  LOG      ✓ Compiled in 79ms
+[00:19:28.242] Server  LOG      ✓ Compiled in 69ms
+[00:19:34.377] Server  LOG      ✓ Compiled in 109ms
+[00:19:39.984] Server  LOG      ✓ Compiled in 65ms
+[00:19:54.205] Server  LOG      ✓ Compiled in 92ms
+[00:20:04.358] Server  LOG      ✓ Compiled in 55ms
+[00:20:17.022] Server  LOG      ✓ Compiled in 96ms
+[00:20:46.231] Server  LOG      ✓ Compiled in 104ms
+[00:21:27.334] Server  LOG      ✓ Compiled in 136ms
+[00:21:36.993] Server  LOG      ✓ Compiled in 100ms
+[00:21:50.747] Server  LOG      ✓ Compiled in 90ms
+[00:21:56.460] Server  LOG      ✓ Compiled in 58ms
+[00:22:29.177] Server  LOG      ✓ Compiled in 130ms
+[00:22:43.771] Server  LOG      ✓ Compiled in 99ms
+[00:22:52.487] Server  LOG      ✓ Compiled in 207ms
+[00:23:07.568] Server  LOG      ✓ Compiled in 70ms
+[00:23:12.937] Server  LOG      ✓ Compiled in 70ms
+[00:23:31.790] Server  LOG      ✓ Compiled in 63ms
+[00:23:44.757] Server  LOG      ✓ Compiled in 83ms
+[00:23:55.481] Server  LOG      ✓ Compiled in 74ms
+[00:24:00.691] Server  LOG      ✓ Compiled in 81ms
+[00:24:07.455] Server  LOG      ✓ Compiled in 83ms
+[00:24:11.473] Server  LOG      ✓ Compiled in 59ms
+[00:24:13.545] Server  LOG      ✓ Compiled in 97ms
+[00:24:49.339] Server  LOG      ✓ Compiled in 127ms
+[00:26:03.406] Server  LOG      ✓ Compiled in 129ms
+[00:26:09.461] Server  LOG      ✓ Compiled in 59ms
+[00:26:14.709] Server  LOG      ✓ Compiled in 63ms
+[00:26:23.256] Server  LOG      ✓ Compiled in 136ms
+[00:26:31.305] Server  LOG      ✓ Compiled in 167ms
+[00:26:33.486] Server  LOG      ✓ Compiled in 55ms
+[00:27:41.454] Server  LOG      ✓ Compiled in 306ms
+[00:29:25.257] Server  LOG      ✓ Compiled in 717ms
+[00:29:34.219] Server  LOG      ✓ Compiled in 745ms
+[00:29:44.019] Server  LOG      ✓ Compiled in 76ms
+[00:29:50.384] Server  LOG      ✓ Compiled in 140ms
+[00:29:55.873] Server  LOG      ✓ Compiled in 142ms
+[00:32:15.422] Server  LOG      ✓ Compiled in 248ms
+[00:33:25.250] Server  LOG      ✓ Compiled in 1239ms
+[00:34:19.717] Server  LOG      ✓ Compiled in 828ms
+[00:34:20.071] Browser ERROR   ./app/process/page.tsx:380:91
 Parsing ecmascript source code failed
-  234 |               </motion.div> 
-  235 |
-> 236 |             </motion.div>
-      |                          ^
-> 237 |           </div>
-      | ^^^^^^^^^^^
-  238 |           
-  239 |
-  240 |           {/* our target audience */}
+  378 |             transition={{ duration: 1 }}
+  379 |             viewport={{ once: true }}
+> 380 |             {/* REMOVED aspect-[16/9] to ensure all rows of images fit without cropping */}
+      |                                                                                           ^
+  381 |             className="relative bg-white rounded-3xl overflow-hidden shadow-xl mb-12" 
+  382 |           >
+  383 |             {/* Increased vertical spacing (space-y-6) and padding (p-8) for enlarged images */}
 
-Expected '</', got 'jsx text (
-          )'
+Expected '</', got '}'
 
 Import traces:
   Client Component Browser:
@@ -107,43 +156,72 @@ Import traces:
   Client Component SSR:
     ./app/process/page.tsx [Client Component SSR]
     ./app/process/page.tsx [Server Component]
-[00:19:00.329] Server  LOG      ✓ Compiled in 329ms
-[00:22:16.527] Server  LOG      ✓ Compiled in 828ms
-[00:22:26.240] Server  LOG      ✓ Compiled in 74ms
-[01:05:03.029] Server  LOG      ✓ Compiled in 1467ms
-[01:05:09.273] Server  LOG      ✓ Compiled in 118ms
-[01:05:27.997] Server  LOG      ✓ Compiled in 952ms
-[01:05:36.299] Server  LOG      ✓ Compiled in 184ms
-[01:05:39.545] Server  LOG      ✓ Compiled in 262ms
-[01:05:43.562] Server  LOG      ✓ Compiled in 60ms
-[01:05:53.017] Server  LOG      ✓ Compiled in 82ms
-[01:05:57.798] Server  LOG      ✓ Compiled in 118ms
-[01:06:01.165] Server  LOG      ✓ Compiled in 64ms
-[01:06:03.126] Server  LOG      ✓ Compiled in 76ms
-[01:06:08.558] Server  LOG      ✓ Compiled in 64ms
-[01:06:14.934] Server  LOG      ✓ Compiled in 103ms
-[01:06:20.324] Server  LOG      ✓ Compiled in 132ms
-[01:06:47.136] Server  LOG      ✓ Compiled in 97ms
-[01:06:52.649] Server  LOG      ✓ Compiled in 63ms
-[01:06:57.619] Server  LOG      ✓ Compiled in 267ms
-[01:07:01.596] Server  LOG      ✓ Compiled in 66ms
-[01:07:07.857] Server  LOG      ✓ Compiled in 63ms
-[01:07:12.370] Server  LOG      ✓ Compiled in 75ms
-[01:07:17.467] Server  LOG      ✓ Compiled in 58ms
-[01:07:20.815] Server  LOG      ✓ Compiled in 91ms
-[01:08:41.294] Server  LOG      ✓ Compiled in 111ms
-[01:08:48.137] Server  LOG      ✓ Compiled in 73ms
-[01:08:59.335] Server  LOG      ✓ Compiled in 168ms
-[01:09:20.723] Server  LOG      ✓ Compiled in 1556ms
-[01:09:34.685] Server  LOG      ✓ Compiled in 73ms
-[01:09:37.634] Server  LOG      ✓ Compiled in 50ms
-[01:09:49.030] Server  LOG      ✓ Compiled in 120ms
-[01:11:05.426] Server  LOG      ✓ Compiled in 89ms
-[01:11:09.388] Server  LOG      ✓ Compiled in 70ms
-[01:11:49.270] Server  LOG      ✓ Compiled in 98ms
-[01:24:48.286] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
-[01:24:48.286] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.48:3000/members color: rgb(120, 120, 120) color: inherit {"dp":"/members","o":"http://192.168.0.48:3000/members","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764547214185}
-[01:26:11.675] Server  LOG      ✓ Compiled in 353ms
-[01:27:00.701] Server  LOG      ✓ Compiled in 67ms
-[01:27:08.655] Server  LOG      ✓ Compiled in 92ms
-[01:36:26.158] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.48:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.48:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764547912051}
+[00:34:39.225] Server  LOG      ✓ Compiled in 118ms
+[00:35:06.865] Server  LOG      ✓ Compiled in 70ms
+[00:35:07.028] Browser ERROR   ./app/process/page.tsx:380:91
+Parsing ecmascript source code failed
+  378 |             transition={{ duration: 1 }}
+  379 |             viewport={{ once: true }}
+> 380 |             {/* REMOVED aspect-[16/9] to ensure all rows of images fit without cropping */}
+      |                                                                                           ^
+  381 |             className="relative bg-white rounded-3xl overflow-hidden shadow-xl mb-12" 
+  382 |           >
+  383 |             {/* Increased vertical spacing (space-y-6) and padding (p-8) for enlarged images */}
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./app/process/page.tsx [Client Component Browser]
+    ./app/process/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/process/page.tsx [Client Component SSR]
+    ./app/process/page.tsx [Server Component]
+[00:35:40.608] Server  LOG      ✓ Compiled in 78ms
+[00:35:41.028] Browser ERROR   ./app/process/page.tsx:380:91
+Parsing ecmascript source code failed
+  378 |             transition={{ duration: 1 }}
+  379 |             viewport={{ once: true }}
+> 380 |             {/* REMOVED aspect-[16/9] to ensure all rows of images fit without cropping */}
+      |                                                                                           ^
+  381 |             className="relative bg-white rounded-3xl overflow-hidden shadow-xl mb-12" 
+  382 |           >
+  383 |             {/* Increased vertical spacing (space-y-6) and padding (p-8) for enlarged images */}
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./app/process/page.tsx [Client Component Browser]
+    ./app/process/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/process/page.tsx [Client Component SSR]
+    ./app/process/page.tsx [Server Component]
+[00:35:49.939] Server  LOG      ✓ Compiled in 215ms
+[00:39:49.809] Server  LOG      ✓ Compiled in 499ms
+[00:41:26.136] Server  LOG      ✓ Compiled in 322ms
+[00:41:50.570] Server  LOG      ✓ Compiled in 217ms
+[00:42:14.021] Server  LOG      ✓ Compiled in 220ms
+[00:42:18.055] Server  LOG      ✓ Compiled in 47ms
+[00:42:27.487] Server  LOG      ✓ Compiled in 94ms
+[00:43:04.526] Server  LOG      ✓ Compiled in 74ms
+[00:43:14.077] Server  LOG      ✓ Compiled in 102ms
+[00:43:20.748] Server  LOG      ✓ Compiled in 58ms
+[00:43:41.552] Server  LOG      ✓ Compiled in 94ms
+[00:43:46.695] Server  LOG      ✓ Compiled in 50ms
+[00:43:48.606] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.40:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.0.40:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764573745727}
+[00:43:48.606] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[00:43:52.979] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:43:52.979] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.0.40:3000/process color: rgb(120, 120, 120) color: inherit {"dp":"/process","o":"http://192.168.0.40:3000/process","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764573750115}
+[00:44:10.392] Server  LOG      ✓ Compiled in 68ms
+[00:44:14.538] Server  LOG      ✓ Compiled in 66ms
+[01:02:47.088] Server  LOG      ✓ Compiled in 783ms
+[01:03:07.728] Server  LOG      ✓ Compiled in 252ms
+[01:03:27.257] Server  LOG      ✓ Compiled in 134ms
+[01:03:29.186] Server  LOG      ✓ Compiled in 98ms
+[01:03:37.311] Server  LOG      ✓ Compiled in 62ms
+[01:03:39.465] Server  LOG      ✓ Compiled in 127ms
+[01:03:44.342] Server  LOG      ✓ Compiled in 99ms
+[01:05:02.280] Server  LOG      ✓ Compiled in 1098ms

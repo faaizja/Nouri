@@ -170,7 +170,7 @@ function ProcessPage() {
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "relative aspect-video bg-white rounded-3xl overflow-hidden shadow-xl",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                src: "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/dde24df1ad16e83aedccec1f38d459233cc5f05a",
+                                src: "/nouri-bg.png",
                                 alt: "Next-level mockup",
                                 className: "w-full h-full object-cover"
                             }, void 0, false, {
@@ -1380,25 +1380,184 @@ function ProcessPage() {
                             viewport: {
                                 once: true
                             },
-                            className: "relative aspect-[16/9] bg-white rounded-3xl overflow-hidden shadow-xl mb-12",
+                            className: "relative bg-white rounded-3xl overflow-hidden shadow-xl mb-12",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "w-full h-full bg-gradient-to-br from-[#F5F5F5] to-white flex items-center justify-center p-12",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-center text-[#2E2E2E]/40",
-                                    children: "Design evolution mockups"
-                                }, void 0, false, {
-                                    fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 383,
-                                    columnNumber: 15
-                                }, this)
-                            }, void 0, false, {
+                                className: "w-full bg-gradient-to-br from-[#F5F5F5] to-white flex items-center justify-start p-8 overflow-x-scroll space-x-6 scroll-smooth snap-x snap-mandatory",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/1 - KIH.png",
+                                        alt: "KIH Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 387,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/2 - KIH.png",
+                                        alt: "KIH Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 388,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/3 - KIH.png",
+                                        alt: "KIH Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 389,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/4 - KIH.png",
+                                        alt: "KIH Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 390,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/1 - RecipeRescue.png",
+                                        alt: "RecipeRescue Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 392,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/2 - RecipeRescue.png",
+                                        alt: "RecipeRescue Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 393,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/3 - RecipeRescue.png",
+                                        alt: "RecipeRescue Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 394,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/4 - RecipeRescue.png",
+                                        alt: "RecipeRescue Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 395,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/5 - RecipeRescue.png",
+                                        alt: "RecipeRescue Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 396,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/1 - WasteWitness.png",
+                                        alt: "WasteWitness Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 398,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/2 - WasteWitness.png",
+                                        alt: "WasteWitness Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 399,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/3 - WasteWitness.png",
+                                        alt: "WasteWitness Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 400,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/4 - WasteWitness.png",
+                                        alt: "WasteWitness Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 401,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/5 - WasteWitness.png",
+                                        alt: "WasteWitness Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 402,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/6 - WasteWitness.png",
+                                        alt: "WasteWitness Early",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 403,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
                                 fileName: "[project]/app/process/page.tsx",
-                                lineNumber: 382,
+                                lineNumber: 384,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 375,
+                            lineNumber: 376,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1424,7 +1583,7 @@ function ProcessPage() {
                                         children: "Initial Concept"
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 394,
+                                        lineNumber: 415,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1433,37 +1592,37 @@ function ProcessPage() {
                                             "Our early sketches focused on a simple pantry list and one off recipe suggestions. ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 396,
+                                                lineNumber: 417,
                                                 columnNumber: 100
                                             }, this),
                                             "As we tested low and mid fidelity prototypes, we realized that users needed clearer ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 398,
+                                                lineNumber: 419,
                                                 columnNumber: 26
                                             }, this),
                                             "guidance at each step of their routine. This pushed us to design a more structured ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 399,
+                                                lineNumber: 420,
                                                 columnNumber: 34
                                             }, this),
                                             "system that connects shopping, storing, cooking, and logging waste."
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 395,
+                                        lineNumber: 416,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/process/page.tsx",
-                                lineNumber: 388,
+                                lineNumber: 409,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 387,
+                            lineNumber: 408,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1481,25 +1640,195 @@ function ProcessPage() {
                             viewport: {
                                 once: true
                             },
-                            className: "relative aspect-[16/9] bg-white rounded-3xl overflow-hidden shadow-xl mb-12 lg:mt-20",
+                            className: "relative bg-white rounded-3xl overflow-hidden shadow-xl mb-12 lg:mt-20",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "w-full h-full bg-gradient-to-br from-[#F5F5F5] to-white flex items-center justify-center p-12",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-center text-[#2E2E2E]/40",
-                                    children: "Design evolution mockups"
-                                }, void 0, false, {
-                                    fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 412,
-                                    columnNumber: 15
-                                }, this)
-                            }, void 0, false, {
+                                className: "w-full bg-gradient-to-br from-[#F5F5F5] to-white flex items-center justify-start p-8 overflow-x-scroll space-x-6 scroll-smooth snap-x snap-mandatory",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/1 - Kitchen Intelligence Hub.png",
+                                        alt: "KIH Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 437,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/2 - Kitchen Intelligence Hub.png",
+                                        alt: "KIH Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 438,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/3 - Kitchen Intelligence Hub.png",
+                                        alt: "KIH Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 439,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/4 - Kitchen Intelligence Hub.png",
+                                        alt: "KIH Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 440,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/5 - Kitchen Intelligence Hub.png",
+                                        alt: "KIH Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 441,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/6 - Kitchen Intelligence Hub.png",
+                                        alt: "KIH Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 442,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/1-rr.png",
+                                        alt: "RecipeRescue Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 444,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/2-rr.png",
+                                        alt: "RecipeRescue Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 445,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/3-rr.png",
+                                        alt: "RecipeRescue Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 446,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/4-rr.png",
+                                        alt: "RecipeRescue Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 447,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/5-rr.png",
+                                        alt: "RecipeRescue Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 448,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/1-nn.png",
+                                        alt: "WasteWitness Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 450,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/2-nn.png",
+                                        alt: "WasteWitness Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 451,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/3-nn.png",
+                                        alt: "WasteWitness Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 452,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/4-nn.png",
+                                        alt: "WasteWitness Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 453,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                        src: "/5-nn.png",
+                                        alt: "WasteWitness Final",
+                                        height: 350,
+                                        width: 200,
+                                        className: "flex-shrink-0 rounded-lg shadow-md snap-center"
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/process/page.tsx",
+                                        lineNumber: 454,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
                                 fileName: "[project]/app/process/page.tsx",
-                                lineNumber: 411,
+                                lineNumber: 434,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 404,
+                            lineNumber: 426,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1525,7 +1854,7 @@ function ProcessPage() {
                                         children: "Final Design"
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 422,
+                                        lineNumber: 466,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1534,37 +1863,37 @@ function ProcessPage() {
                                             "The final interface brings those pieces together in a calm, minimal visual style. ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 425,
+                                                lineNumber: 469,
                                                 columnNumber: 39
                                             }, this),
                                             " We refined layouts, typography, and button patterns to create a consistent ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 426,
+                                                lineNumber: 470,
                                                 columnNumber: 56
                                             }, this),
                                             "experience across all three features. We aimed to have every screen support ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/app/process/page.tsx",
-                                                lineNumber: 427,
+                                                lineNumber: 471,
                                                 columnNumber: 71
                                             }, this),
                                             "quick scanning, clear actions, and have a sense of progress towards wasting less food."
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 423,
+                                        lineNumber: 467,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/process/page.tsx",
-                                lineNumber: 416,
+                                lineNumber: 460,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 415,
+                            lineNumber: 459,
                             columnNumber: 11
                         }, this)
                     ]
@@ -1605,7 +1934,7 @@ function ProcessPage() {
                                     children: "Testing & Results"
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 446,
+                                    lineNumber: 490,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1613,7 +1942,7 @@ function ProcessPage() {
                                     children: "Validation Through Users"
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 447,
+                                    lineNumber: 491,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1621,13 +1950,13 @@ function ProcessPage() {
                                     children: "We tested multiple iterations of Nouri with users who regularly cook at home. Participants walked through realistic scenarios, spoke aloud as they used the prototype, and reflected on what felt confusing or helpful. Their feedback shaped everything from button hierarchy to how we structured the cooking assistant and waste logging flows."
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 448,
+                                    lineNumber: 492,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 439,
+                            lineNumber: 483,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1655,7 +1984,7 @@ function ProcessPage() {
                                             children: "14"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 464,
+                                            lineNumber: 508,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1663,13 +1992,13 @@ function ProcessPage() {
                                             children: "User Testing Sessions"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 465,
+                                            lineNumber: 509,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 457,
+                                    lineNumber: 501,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1695,7 +2024,7 @@ function ProcessPage() {
                                             children: "3"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 475,
+                                            lineNumber: 519,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1703,13 +2032,13 @@ function ProcessPage() {
                                             children: "Major Iterations"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 476,
+                                            lineNumber: 520,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 468,
+                                    lineNumber: 512,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1735,7 +2064,7 @@ function ProcessPage() {
                                             children: "97%"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 486,
+                                            lineNumber: 530,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1743,30 +2072,30 @@ function ProcessPage() {
                                             children: "User Satisfaction"
                                         }, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 487,
+                                            lineNumber: 531,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 479,
+                                    lineNumber: 523,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 456,
+                            lineNumber: 500,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/process/page.tsx",
-                    lineNumber: 438,
+                    lineNumber: 482,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/process/page.tsx",
-                lineNumber: 437,
+                lineNumber: 481,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1796,7 +2125,7 @@ function ProcessPage() {
                                     children: "Final Prototype"
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 503,
+                                    lineNumber: 547,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1805,26 +2134,26 @@ function ProcessPage() {
                                         "Our current prototype reflects the best version of Nouri from this course. ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 506,
+                                            lineNumber: 550,
                                             columnNumber: 41
                                         }, this),
                                         " It shows how kitchen inventory, recipes, and impact tracking can work together ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/app/process/page.tsx",
-                                            lineNumber: 508,
+                                            lineNumber: 552,
                                             columnNumber: 23
                                         }, this),
                                         "in one coherent experience, giving us a strong foundation for future development."
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 504,
+                                    lineNumber: 548,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 496,
+                            lineNumber: 540,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1856,38 +2185,38 @@ function ProcessPage() {
                                         allowFullScreen: true
                                     }, void 0, false, {
                                         fileName: "[project]/app/process/page.tsx",
-                                        lineNumber: 522,
+                                        lineNumber: 566,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/app/process/page.tsx",
-                                    lineNumber: 521,
+                                    lineNumber: 565,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/app/process/page.tsx",
-                                lineNumber: 520,
+                                lineNumber: 564,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 513,
+                            lineNumber: 557,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/process/page.tsx",
-                    lineNumber: 495,
+                    lineNumber: 539,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/process/page.tsx",
-                lineNumber: 494,
+                lineNumber: 538,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Footer, {}, void 0, false, {
                 fileName: "[project]/app/process/page.tsx",
-                lineNumber: 536,
+                lineNumber: 580,
                 columnNumber: 7
             }, this)
         ]
@@ -1921,7 +2250,7 @@ function Header() {
                     children: "Nouri"
                 }, void 0, false, {
                     fileName: "[project]/app/process/page.tsx",
-                    lineNumber: 552,
+                    lineNumber: 596,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1933,7 +2262,7 @@ function Header() {
                             children: "Home"
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 557,
+                            lineNumber: 601,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -1942,7 +2271,7 @@ function Header() {
                             children: "Process"
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 560,
+                            lineNumber: 604,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -1951,24 +2280,24 @@ function Header() {
                             children: "The Team"
                         }, void 0, false, {
                             fileName: "[project]/app/process/page.tsx",
-                            lineNumber: 563,
+                            lineNumber: 607,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/process/page.tsx",
-                    lineNumber: 556,
+                    lineNumber: 600,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/app/process/page.tsx",
-            lineNumber: 551,
+            lineNumber: 595,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/process/page.tsx",
-        lineNumber: 545,
+        lineNumber: 589,
         columnNumber: 5
     }, this);
 }
@@ -1983,17 +2312,17 @@ function Footer() {
                 children: "© Nouri 2025 | All Rights Reserved"
             }, void 0, false, {
                 fileName: "[project]/app/process/page.tsx",
-                lineNumber: 577,
+                lineNumber: 621,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/app/process/page.tsx",
-            lineNumber: 576,
+            lineNumber: 620,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/process/page.tsx",
-        lineNumber: 575,
+        lineNumber: 619,
         columnNumber: 5
     }, this);
 }

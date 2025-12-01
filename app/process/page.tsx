@@ -53,7 +53,7 @@ export default function ProcessPage() {
              This page walks through how we researched, designed, and refined Nouri into a tool that helps home cooks waste less food and feel more confident about what they already have.</h1>
           <div className="relative aspect-video bg-white rounded-3xl overflow-hidden shadow-xl">
             <img
-              src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/dde24df1ad16e83aedccec1f38d459233cc5f05a"
+              src="/nouri-bg.png"
               alt="Next-level mockup"
               className="w-full h-full object-cover"
             />
@@ -372,15 +372,36 @@ export default function ProcessPage() {
             <h3 className="text-4xl md:text-5xl font-light">From Concept to Reality</h3>
           </motion.div>
 
+          {/* INITIAL CONCEPT MOCKUPS - HORIZONTAL GALLERY */}
           <motion.div
             initial={{ opacity: 0, y: 60 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
             viewport={{ once: true }}
-            className="relative aspect-[16/9] bg-white rounded-3xl overflow-hidden shadow-xl mb-12"
+            className="relative bg-white rounded-3xl overflow-hidden shadow-xl mb-12"
           >
-            <div className="w-full h-full bg-gradient-to-br from-[#F5F5F5] to-white flex items-center justify-center p-12">
-              <p className="text-center text-[#2E2E2E]/40">Design evolution mockups</p>
+            {/* Gallery container: ADDED scroll-smooth and scroll-snap classes */}
+            <div className="w-full bg-gradient-to-br from-[#F5F5F5] to-white flex items-center justify-start p-8 overflow-x-scroll space-x-6 scroll-smooth snap-x snap-mandatory">
+              
+              {/* Placing all early sketch images in one non-wrapping row. ADDED snap-center class to images */}
+              <img src="/1 - KIH.png" alt="KIH Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/2 - KIH.png" alt="KIH Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/3 - KIH.png" alt="KIH Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/4 - KIH.png" alt="KIH Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              
+              <img src="/1 - RecipeRescue.png" alt="RecipeRescue Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/2 - RecipeRescue.png" alt="RecipeRescue Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/3 - RecipeRescue.png" alt="RecipeRescue Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/4 - RecipeRescue.png" alt="RecipeRescue Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/5 - RecipeRescue.png" alt="RecipeRescue Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+
+              <img src="/1 - WasteWitness.png" alt="WasteWitness Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/2 - WasteWitness.png" alt="WasteWitness Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/3 - WasteWitness.png" alt="WasteWitness Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/4 - WasteWitness.png" alt="WasteWitness Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/5 - WasteWitness.png" alt="WasteWitness Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/6 - WasteWitness.png" alt="WasteWitness Early" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+
             </div>
           </motion.div>
 
@@ -401,17 +422,40 @@ export default function ProcessPage() {
             </motion.div>
           </div>
 
+              {/* final design mockups - GALLERY */}
           <motion.div
             initial={{ opacity: 0, y: 60 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
             viewport={{ once: true }}
-            className="relative aspect-[16/9] bg-white rounded-3xl overflow-hidden shadow-xl mb-12 lg:mt-20"
+            className="relative bg-white rounded-3xl overflow-hidden shadow-xl mb-12 lg:mt-20"
           >
-            <div className="w-full h-full bg-gradient-to-br from-[#F5F5F5] to-white flex items-center justify-center p-12">
-              <p className="text-center text-[#2E2E2E]/40">Design evolution mockups</p>
+            {/* The gallery container: ADDED scroll-smooth and scroll-snap classes */}
+            <div className="w-full bg-gradient-to-br from-[#F5F5F5] to-white flex items-center justify-start p-8 overflow-x-scroll space-x-6 scroll-smooth snap-x snap-mandatory">
+              
+              {/* Placing all images in one non-wrapping row. ADDED snap-center class to images */}
+              <img src="/1 - Kitchen Intelligence Hub.png" alt="KIH Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/2 - Kitchen Intelligence Hub.png" alt="KIH Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/3 - Kitchen Intelligence Hub.png" alt="KIH Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/4 - Kitchen Intelligence Hub.png" alt="KIH Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/5 - Kitchen Intelligence Hub.png" alt="KIH Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/6 - Kitchen Intelligence Hub.png" alt="KIH Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              
+              <img src="/1-rr.png" alt="RecipeRescue Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/2-rr.png" alt="RecipeRescue Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/3-rr.png" alt="RecipeRescue Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/4-rr.png" alt="RecipeRescue Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/5-rr.png" alt="RecipeRescue Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+
+              <img src="/1-nn.png" alt="WasteWitness Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/2-nn.png" alt="WasteWitness Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/3-nn.png" alt="WasteWitness Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/4-nn.png" alt="WasteWitness Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+              <img src="/5-nn.png" alt="WasteWitness Final" height={350} width={200} className="flex-shrink-0 rounded-lg shadow-md snap-center"/>
+
             </div>
           </motion.div>
+
           <div className="grid md:grid-cols-2 gap-12">
             <motion.div
               initial={{ opacity: 0, y: 40 }}

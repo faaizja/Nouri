@@ -251,8 +251,8 @@ function ProjectShowcase() {
             viewport={{ once: true }}
             className="relative"
           >
-            <img className="lg:ml-52" src="/NN.png" height={350} width={350} alt="mockup of kitchen intelligence hub" />
-            <p className="flex justify-center items-center pl-20 text-[#7a9d54] font-semibold">Nouri highlights expiring items and suggests how to use them first.</p>
+            <img className="lg:ml-52" src="/KIH.png" height={350} width={350} alt="mockup of kitchen intelligence hub" />
+            <p className="flex justify-center text-center items-center pl-40 pt-3.5 text-wrap text-[#7a9d54] font-semibold">Nouri keeps track of what you have in your <br /> pantry to prevent food waste.</p>
           </motion.div>
         </div>
       </section>
@@ -271,7 +271,7 @@ function ProjectShowcase() {
             className="relative"
           >
               <img className="lg:ml-20" src="/RR.png" height={350} width={350} alt="mockup of recipe rescue" />
-              <p className="flex justify-center items-center pl-20 text-[#7a9d54] font-semibold">Nouri highlights expiring items and suggests how to use them first.</p>
+              <p className="flex justify-center text-center items-center pr-24 pt-3.5 text-wrap text-[#7a9d54] font-semibold">Nouri detects expiring items and suggests <br /> recipes to rescue them.</p>
           </motion.div>
 
           <motion.div
@@ -315,7 +315,7 @@ function ProjectShowcase() {
             className="relative"
           >
             <img className="lg:ml-52" src="/NN.png" height={350} width={350} alt="mockup of nouri nexus" />
-            <p className="flex justify-center items-center pl-20 text-[#7a9d54] font-semibold">Nouri highlights expiring items and suggests how to use them first.</p>
+            <p className="flex justify-center text-center items-center pl-40 pt-3.5 text-wrap text-[#7a9d54] font-semibold">Nouri shows you how your habits impact the environment and helps you make informed decisions.</p>
           </motion.div>
         </div>
       </section>

@@ -605,7 +605,7 @@ function ProjectShowcase() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                     className: "lg:ml-52",
-                                    src: "/NN.png",
+                                    src: "/KIH.png",
                                     height: 350,
                                     width: 350,
                                     alt: "mockup of kitchen intelligence hub"
@@ -615,9 +615,17 @@ function ProjectShowcase() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "flex justify-center items-center pl-20 text-[#7a9d54] font-semibold",
-                                    children: "Nouri highlights expiring items and suggests how to use them first."
-                                }, void 0, false, {
+                                    className: "flex justify-center text-center items-center pl-40 pt-3.5 text-wrap text-[#7a9d54] font-semibold",
+                                    children: [
+                                        "Nouri keeps track of what you have in your ",
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                            fileName: "[project]/app/page.tsx",
+                                            lineNumber: 255,
+                                            columnNumber: 168
+                                        }, this),
+                                        " pantry to prevent food waste."
+                                    ]
+                                }, void 0, true, {
                                     fileName: "[project]/app/page.tsx",
                                     lineNumber: 255,
                                     columnNumber: 13
@@ -673,9 +681,17 @@ function ProjectShowcase() {
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "flex justify-center items-center pl-20 text-[#7a9d54] font-semibold",
-                                    children: "Nouri highlights expiring items and suggests how to use them first."
-                                }, void 0, false, {
+                                    className: "flex justify-center text-center items-center pr-24 pt-3.5 text-wrap text-[#7a9d54] font-semibold",
+                                    children: [
+                                        "Nouri detects expiring items and suggests ",
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                            fileName: "[project]/app/page.tsx",
+                                            lineNumber: 274,
+                                            columnNumber: 169
+                                        }, this),
+                                        " recipes to rescue them."
+                                    ]
+                                }, void 0, true, {
                                     fileName: "[project]/app/page.tsx",
                                     lineNumber: 274,
                                     columnNumber: 15
@@ -823,8 +839,8 @@ function ProjectShowcase() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "flex justify-center items-center pl-20 text-[#7a9d54] font-semibold",
-                                    children: "Nouri highlights expiring items and suggests how to use them first."
+                                    className: "flex justify-center text-center items-center pl-40 pt-3.5 text-wrap text-[#7a9d54] font-semibold",
+                                    children: "Nouri shows you how your habits impact the environment and helps you make informed decisions."
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
                                     lineNumber: 318,
