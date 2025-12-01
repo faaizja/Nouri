@@ -214,7 +214,7 @@ export default function ProcessPage() {
               transition={{ duration: 0.8, delay: 0.2 }}
               viewport={{ once: true }}
             >
-              <h3 className="text-4xl md:text-5xl font-light lg:mt-5 text-nowrap lg:mb-16">Our target audience (stage 2 slide 11)</h3>
+              <h3 className="text-4xl md:text-5xl font-light lg:mt-5 text-nowrap lg:mb-16">Our target audience</h3>
               
               <h1 className="text-2xl lg:text-2xl font-light lg:mt-10 lg:mb-10 text-nowrap">Based on our research, we focused on two primary groups who feel the pain of food waste most strongly.</h1>
 
