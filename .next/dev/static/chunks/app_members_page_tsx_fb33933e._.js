@@ -23,7 +23,7 @@ function MeetTheMembersPage() {
         },
         {
             name: "Faaiz Abdullah",
-            photoSrc: "/faaiz.jpg",
+            photoSrc: "/faaiz.JPG",
             bio: "Faaiz contributed core research by conducting user interviews and analyzing data to identify key pain points. He then used these findings to architect the app's feature wireflows to ensure a logical and user experience."
         }
     ];
